@@ -1,11 +1,11 @@
 # Los Himalayas 
 
-—Maestro, he tenido un recuerdo del futuuro. Me he visto en una guerra, en un país que no es de nuestro 
+—Maestro, he tenido un recuerdo del futuro. Me he visto en una guerra, en un país que no es de nuestro 
 tiempo, portando vestimentas y armas desconocidas. 
 
-—No será mejor que hoy -dijo el Maestro--. Vamos hacia abajo en el tiempo. 
+—No será mejor que hoy —dijo el Maestro—. Vamos hacia abajo en el tiempo. 
 
-—He tenido este recuerdo, y vengo a la ffloresta de Bundelkhand, donde tú habitas, para que me inicies en la 
+—He tenido este recuerdo, y vengo a la floresta de Bundelkhand, donde tú habitas, para que me inicies en la 
 práctica y doctrina tántrica kaula, en la que eres Maestro de Maestros. Por algo te llamas Matsyendranatha. 
 
 El Gurú, que estaba desnudo, cubierto el cuerpo con cenizas azules, cerró los ojos y permaneció de este modo 
@@ -14,14 +14,14 @@ posición de loto, a la sombra de una retorcida higuera. Abrió los ojos como si
 los del joven, quien trató en vano de resistir la mirada. Se sintió investigado adentro, recorrido hasta su 
 infancia. Bajó los ojos con respetuoso pudor y también con miedo. 
 
-—Hablas de un recuerdo del futuro y seguuramente piensas en la transmigración. Has de saber que la creencia 
-en la reencarnación no se halla en los más antiguos textos. Estaba aquí. Procede de esta tierra y sus habitantes 
+—Hablas de un recuerdo del futuro y seguramente piensas en la transmigración. Has de saber que la crencia 
+en la rencarnación no se halla en los más antiguos textos. Estaba aquí. Procede de esta tierra y sus habitantes 
 oscuros; tiene que ver con las varias muertes que siguen a la del cuerpo, con la muda de la piel de la 
 serpiente... Dime lo que viste en tu sueño. 
 
-—Me vi en una guerra en un país distantee. Portaba una espada. 
+—Me vi en una guerra en un país distante. Portaba una espada. 
 
-—La espada es el conocimiento... Para quue pueda aceptarte como discípulo, iniciándote en la práctica Kaula, 
+—La espada es el conocimiento... Para que pueda aceptarte como discípulo, iniciándote en la práctica Kaula, 
 tienes que traerme leche de mujer. Se hace necesario comenzar de nuevo, desde la infancia. 
 
 * * * 
@@ -34,25 +34,25 @@ de su concentración, ve a su lado a una sacerdotisa del templo, que ha venido a
 pezuñas del dios. Es esbelta y está cubierta de olorosos aceites; su pelo negro se prende con un lazo de 
 jazmines. 
 
-—No te alejes -le dice-, quiero pedirte algo. 
+—No te alejes —le dice—, quiero pedirte algo. 
 
 Los ojos oscuros le observan. 
 
 —Necesito leche de madre. 
 
-—Soy virgen, pero trataré de complacertee. Dame tu escudilla. 
+—Soy virgen, pero trataré de complacerte. Dame tu escudilla. 
 
 El mozo se la extiende con los ojos bajos. 
 
 La mano de la sacerdotisa tenía una mancha blanca entre dos de sus dedos. 'Lepra', pensó el mancebo. 
 
-—Tienes que ayudar -dijo ella-. 
+—Tienes que ayudar —dijo ella—. 
 
 La mano temblorosa del joven no supo cómo. Ella le guió. Llevaba el pecho descubierto. 
 
 Pudo así extraer leche de la esposa de Ghanesa. 
 
-—La leche te la da él -dijo. 
+—La leche te la da él —dijo. 
 
 El mancebo quiso prosternarse ante la sacerdotisa, pero ella se lo impidió. Juntó sus manos y dijo: 
 
@@ -65,26 +65,26 @@ escultores y arquitectos del templo. El granito y el mármol reverberaban, ascen
 Sedales, filamentos flotaban en el aire denso, quedaban suspendidos o se esfumaban. Bajo un dintel de 
 mármol se encontraba un escultor ciego; sostenía entre sus manos un bloque de piedra. Sintió pasar al joven 
 que portaba la escudilla con recogimiento. Y, como si le viera, le siguió con su rostro, mientras se alejaba en 
-dirección de la floresta de Bundelkhand. 
+direción de la floresta de Bundelkhand. 
 
 * * * 
 
 El Maestro se llevó la escudilla a los labios, manteniendo los ojos cerrados y en meditación. Pero no apuró 
 todo su contenido. 
 
-—Tú también debes beber -dijo-. Te perteenece lo que aquí dejo. 
+—Tú también debes beber —dijo—. Te pertenece lo que aquí dejo. 
 
 El mancebo bebió con devoción. La leche sabía a jazmín. No pudo dejar de pensar en la sacerdotisa, sintiendo 
 que algo de ella entraba en él. También el Maestro había bebido. Ahora existía un lazo que los unía a los tres. 
 Seguramente ya podría ser iniciado. 
 
-—No -dijo el Maestro; aún te falta. Neceesito conocer tu yantra. 
+—No —dijo el Maestro; aún te falta. Necesito conocer tu yantra. 
 
-—¿Quién podrá, Maestro, trazar mi yantraa? 
+—¿Quién podrá, Maestro, trazar mi yantra? 
 
 —Ve a visitar a Sudhir Ranjau Bhaduri y dile que necesito conocerte por dentro. 
 
-—He oído ese nombre. Me parece igualmentte un recuerdo del futuro... 
+—He oído ese nombre. Me parece igualmente un recuerdo del futuro... 
 
 Y el joven fue a ver a Sudhir Ranjau Bhaduri, con la sospecha de que la escena se estaba repitiendo, que ya 
 había venido alguna vez a visitar a este hombre, para pedirle algo semejante, pero en otro tiempo, no en el 
@@ -93,7 +93,7 @@ pasado, sino en el futuro.
 Sudhir Ranjau Bhaduri estaba dentro de su cabaña y le acompañaba un adolescente que le pasaba unos 
 pinceles, que lavaba en un tiesto de bronce. 
 
-—No debía hacer esto -dijo el anciano-. Mejor haría tu horóscopo. El yantra es tu retrato interior, una imagen 
+—No debía hacer esto —dijo el anciano—. Mejor haría tu horóscopo. El yantra es tu retrato interior, una imagen 
 sutil sobre la cual tu forma externa se apoya. Tengo que visualizar esa vibración íntima y darle el color que le 
 corresponda. Son los instrumentos musicales del alma, a los que Maestro llamará chakras, flores de loto. No 
 sé para qué hago esto, si él lo va a cambiar todo. La iniciación consiste en cambiar el yantra. Mientras no 
@@ -107,13 +107,13 @@ mientras se sumía en la contemplación del yantra, como en la lectura de un tex
 
 * * * 
 
-—¿Quién creó el mundo? Nadie lo sabe. Nii el mismo Brahma en el alto cielo lo sabe. Algo desconocido 
+—¿Quién creó el mundo? Nadie lo sabe. Ni el mismo Brahma en el alto cielo lo sabe. Algo desconocido 
 sucedió. Y nació el mundo. ¿Quién alteró la quietud de la nada, la paz de Dios? Tal vez ella, la Esposa, lo 
 femenino eterno, el Brahma femenino. 
 
-—Maestro, ¡quién creó el mundo? ¿Quién nnos puso en este apuro? 
+—Maestro, ¡quién creó el mundo? ¿Quién nos puso en este apuro? 
 
-—Digo que ni el mismo Brahma pareciera ssaberlo. Una fuerza equívoca ha intervenido. En un tiempo muy 
+—Digo que ni el mismo Brahma pareciera saberlo. Una fuerza equívoca ha intervenido. En un tiempo muy 
 lejano, sin embargo, existieron unos seres que lo supieron. Ellos lograron situarse al margen del círculo, 
 alterando el juego fatal de las leyes. Desintegraban este mundo y creaban otro, por medio de un secreto 
 conocimiento que les permitió penetrar el principio equívoco. No aspiraban a la fusión última, en un éxtasis 
@@ -130,13 +130,13 @@ logrado extraer el secreto que se guarda en el sexo de la Esposa, y que Brahma d
 
 El Maestro continuó: 
 
-—El conocimiento nos ha sido transmitidoo por la Serpiente que sobrevivió al fondo de las aguas, cuando se 
-destruyó un mundo de hombres-dioses, en cuyo mundo la mujer no estaba afuera, sino dentro, donde él y ella 
+—El conocimiento nos ha sido transmitido por la Serpiente que sobrevivió al fondo de las aguas, cuando se 
+destruyó un mundo de hombres—dioses, en cuyo mundo la mujer no estaba afuera, sino dentro, donde él y ella 
 eran uno y nada hacía ella que él no supiera. Pero ella hizo algo que él no supo. Y las aguas desbordadas 
 destruyeron el continente donde el rey era el supremo sacerdote y meditaba bajo el Árbol, rodeado de 
 animales, dirigiendo el curso de los astros, que tampoco existían fuera de él. Mientras no reincorpores a la 
 mujer y reabsorbas en ti a los animales, mientras no entremezcles tus raíces con las del Árbol, instruido por la 
-Serpiente, no serán un sacerdote-rey. 
+Serpiente, no serán un sacerdote—rey. 
 
 Tras decir esto, el Maestro consideró necesario levantarse. Lo hizo con dificultad, pues sus raíces se hallaban 
 entrelazadas con las de la higuera, bajo la cual se reclinaba desde hace muchos años, en la posición de loto. En 
@@ -160,7 +160,7 @@ relámpagos. El semental se precipitó, como el cielo sobre la tierra. Y se prod
 en pedazos. El semental, sobre el lomo de la yegua, mostraba sus grandes colmillos amarillentos; la hembra 
 inclinaba sus orejas a ambos lados de su frente estrellada. 
 
-—¿Lo has comprendido? -preguntó el Maesttro. 
+—¿Lo has comprendido? —preguntó el Maestro. 
 
 El mozo estaba demasiado turbado para replicar. 
 
@@ -168,20 +168,20 @@ El mozo estaba demasiado turbado para replicar.
 
 Al mediodía, bajo la sombra de la higuera, el Maestro habló: 
 
-—Hay que cambiarlo todo. Cambiar el semeental en yegua, el hombre en mujer... Pudiste entender que la yegua 
+—Hay que cambiarlo todo. Cambiar el semental en yegua, el hombre en mujer... Pudiste entender que la yegua 
 se regocijaba, con júbilo callado, aún antes del acontecer. Ella es la única triunfante al fin de esa desgracia. 
 Algo sucedió, alguna vez, en algún lugar. Todo ha sido alterado. La mujer salió del hombre. Yegua y semental 
 tomaron formas en lo externo. Alguien empieza a devorar a alguien. En lo que hoy hemos visto, hay un 
 sacrificador y una víctima. Alguien recibe y se enriquece, alguien da y se empobrece. Hay la muerte de un 
 dios, de un destino. Se ha creído ver aquí el mal y se ha predicado, por ello, el ascetismo. En el fondo, hay 
 temor de caer en la trampa y de ser devorado. Dentro del juego de las leyes ciegas, el papel de los dioses. 
-Valiéndote de él alcanzas otra realidad. La vida natural y la del mago van en opuestas direcciones. 
+Valiéndote de él alcanzas otra realidad. La vida natural y la del mago van en opuestas direciones. 
 
 * * * 
 
 El Maestro invitó al discípulo a visitar el templo. Pero ahora no se alejó de la sombra del árbol. 
 
-—El templo eres tú -le dijo-, es tu proppio cuerpo. Un día, también yo recorrí el mundo, visitando sus 
+—El templo eres tú —le dijo—, es tu propio cuerpo. Un día, también yo recorrí el mundo, visitando sus 
 santuarios, desde el monte Kailas, en los Himalayas, hasta el cabo Comorin, en el extremo sur. En todos ellos 
 hay templos, y ofrendé sacrificios. Me bañé en los ríos sagrados y busqué la ciudad de los inmortales afuera 
 de mi mismo, para venir a comprender, al fin, que lo externo es un reflejo imperfecto de lo que está en mí. El 
@@ -193,23 +193,23 @@ punto de la tierra. Eres un templo de una sola columna y varias puertas. Debes e
 propio laberinto y luego sellarla. Por allí, al centro, arriba, está el Kailas y la ciudad de Agarthi. Pero ahora 
 parecieran encontrarse sumergidos, bajo el mar. Deberás primero descender al fondo para recuperar las llaves 
 entre las ruinas de un viejo continente. Y, ¿sabes tú qué es este mundo sumergido? Es el antiguo cerebro de 
-los hombres-dioses, que aún está en ti, pero que ha sido cubierto por una nueva corteza, por un nuevo país. 
+los hombres—dioses, que aún está en ti, pero que ha sido cubierto por una nueva corteza, por un nuevo país. 
 Con la desaparición de lo antiguo, de un viejo sol, los hombres-dioses se sumieron en los montes y en las 
-aguas, en espera de la resurrección. Todo aquello que se cumplía con la ayuda de los hombres-dioses, escapa 
-hoy a tu voluntad; la dirección del curso de los astros, los procesos automáticos de tu cuerpo son en verdad 
+aguas, en espera de la resurreción. Todo aquello que se cumplía con la ayuda de los hombres-dioses, escapa 
+hoy a tu voluntad; la direción del curso de los astros, los procesos automáticos de tu cuerpo son en verdad 
 dirigidos por esos dioses sumergidos y caprichosos, que están siempre a la espera de que se apague el nuevo 
 sol que hoy nos alumbra. 
 
-El camino que te enseño va debajo de las aguas, en busca de la tierra perdida de los dioses, de los guías-
-simiente, de los dioses-instinto; va de un sol nuevo a otro antiguo, sumergido, para poner a flote un continente 
+El camino que te enseño va debajo de las aguas, en busca de la tierra perdida de los dioses, de los guías-simiente,
+de los dioses-instinto; va de un sol nuevo a otro antiguo, sumergido, para poner a flote un continente 
 legendario, encontrando los caminos, los puentes que lo unan al presente, pudiendo heredar así de los viejos 
-sacerdotes, de los guías, la dirección de los trabajos en el templo. 
+sacerdotes, de los guías, la direción de los trabajos en el templo. 
 
 * * * 
 
 El Maestro habló al discípulo de las flores de loto, de los chakras: 
 
-—Están ahí -dijo- aun cuando en verdad sson flores inexistentes. Son más bien una posibilidad, una virtud del 
+—Están ahí —dijo— aun cuando en verdad son flores inexistentes. Son más bien una posibilidad, una virtud del 
 alma. Ellas crean tu doble etérico, tu cuerpo de aire. Pero tendrás que inventarlas. Es como un jardín en 
 sombra; para que puedas ver tus flores, tienes que hacer la luz. La luz se llama Kundalini; encendiéndola, 
 encontrarás los estrechos senderos que te llevan de flor en flor. Kundalini es, además, la abeja que liba en 
@@ -229,7 +229,7 @@ dentro o fuera, porque tal vez no esté en ninguna parte, porque es como estar e
 unión, se cumple en la flor de mil pétalos. En el entrecejo hay una flor de dos pétalos, como alas de paloma. 
 Al abrir esta flor, nace un tercer ojo y nos es permitido ver las puertas de la ciudad de Agarthi. 
 
-Hay, sin embargo, más flores -continuó el Maestro-. Pero éstas, por lo general, no se abren; son flores 
+Hay, sin embargo, más flores —continuó el Maestro—. Pero éstas, por lo general, no se abren; son flores 
 prohibidas. Las hay en tus pies, en tus rodillas. Son centros de conciencia diferente, pensamientos de los 
 dioses-gigantes del antiguo sol. Un mago kaula deberá abrir todas sus flores, pero sin permanecer largo 
 tiempo en ellas. 
@@ -241,7 +241,7 @@ En lenguaje siempre parabólico y estableciendo analogías entre lo de adentro y
 y lo visible, el Maestro se refirió a esos canales o ríos llamados nadi y que son como los filamentos del alma, 
 por donde circula la terrible energía del mundo de los gigantes. 
 
-—Kundalini es un cálculo, una interna pootencia. Está dormida. Es la durmiente. Hay que despertarla, 
+—Kundalini es un cálculo, una interna potencia. Está dormida. Es la durmiente. Hay que despertarla, 
 inventarla. Mas, nada se crea sin que exista virtualmente. Kundalini es la posibilidad de esa fuerza que 
 destruye un mundo para crear otro. Está enrollada a los pies del árbol, amarrada allí con cadenas, formando un 
 nudo, en el lugar mismo de donde parten todos los caminos. Para alcanzar hasta ese oculto recinto de la 
@@ -257,17 +257,17 @@ Deberás nuevamente descender a despertarlo. Caes así muchas veces y te vuelves
 el que te engendras a ti mismo, en el que te inventas, llegando a ser tu propio hijo. El hijo del hombre, 
 engendrado por el padre, que a la vez es el hijo. 
 
-El hijo es muy frágil. Es un hijo innatural. Muere con facilidad, lo destruye un soplo, un mal pensamiento. En 
+El hijo es muy frágil. Es un hijo inatural. Muere con facilidad, lo destruye un soplo, un mal pensamiento. En 
 verdad, lo destruye el pensamiento. El hijo del hombre es engendrado al revés, fecundado por la mujer. Es de 
 pura substancia mental, de éter invisible. Ha sido creado con la más pura magia de los Sidhas, con el semen 
 que se derrama a la inversa, hacia adentro. 
 
-Algunos afirman que es innecesaria -la permanencia física de la mujer, dicen que el coito mágico, o maituna, 
+Algunos afirman que es inecesaria —la permanencia física de la mujer, dicen que el coito mágico, o maituna, 
 deberá efectuarse interiormente, sólo con la imagen de la mujer que ha llegado a ser tu propia alma. El cuerpo 
 etérico del hombre es femenino, el de la mujer es masculino. En el amor de los Sidhas, de los kaulas, el alma 
 masculina de la mujer fecunda tu alma femenina. Y das a la luz el hijo de la eternidad. 
 
-Hay quienes sostienen que el acontecimiento es puramente simbólico, puramente mental. Los kaulas creemos 
+Hay quienes sostienen que el acontecimiento es puramente simbólico, puramente mental. Los kaulas cremos 
 en la necesidad de la mujer afuera y de un maituna realizado efectivamente, conforme a reglas que te revelaré. 
 En esta época pesada, de hierro, el cuerpo físico es el instrumento que deberás afinar. Los Sidhas también 
 resucitaban con este cuerpo. 
@@ -283,9 +283,9 @@ Un día, sus pasos le llevaron nuevamente junto al dios Ghanesa, en el portal de
 lo losa con su frente. Al erguirse, vio que allí estaba otra vez la sacerdotisa. Espigada, con el busto desnudo, 
 oliendo a flores frescas y a madera de sándalo. 
 
-—¿Por qué estas triste? -le preguntó ellla. 
+—¿Por qué estas triste? —le preguntó ellla. 
 
-—¿Cómo no estarlo, cuando se busca con ttanta ansia la realización y aún se permanece en el mundo 
+—¿Cómo no estarlo, cuando se busca con tanta ansia la realización y aún se permanece en el mundo 
 intermedio de las sombras? 
 
 —Dime, ¿quién es tu Gurú? 
@@ -299,12 +299,12 @@ de nuestro tiempo.
 
 —¿Estas seguro? ¿Me llevarás a verle? 
 
-—Vamos -dijo el joven. 
+—Vamos —dijo el joven. 
 
 Cruzaron la ciudad y entraron en la floresta. Extrañamente el joven se demoraba en dar con el camino y con la 
 higuera. Con sorpresa, hubo de reconocer que el Maestro no estaba allí. 
 
-—Razón tenía -exclamó la sacerdotisa-; MMatsyendranatha nunca ha existido. Debo dudar de que hayas 
+—Razón tenía —exclamó la sacerdotisa—; Matsyendranatha nunca ha existido. Debo dudar de que hayas 
 aprendido la recta doctrina sin caer en una trampa de tu imaginación, o de un demonio de la selva... No 
 importa, ven conmigo. Te revelaré tu propio cuerpo... 
 
@@ -321,7 +321,7 @@ Regresaron al templo. La sacerdotisa depositó su corona de jazmines a los pies 
 Se adivinaba una penumbra húmeda y fresca en el interior. Pero la sacerdotisa cambió de idea y le llevó 
 primero a ver la parte exterior del templo. 
 
-—Aquí se halla representada toda la vidaa, Maya, la Ilusión. En los frisos bajos encuentras la guerra, la muerte, 
+—Aquí se halla representada toda la vida, Maya, la Ilusión. En los frisos bajos encuentras la guerra, la muerte, 
 el placer, el amor. Pero quienes se aman en estos muros no son los hombres sino los dioses. Observa el rostro 
 de Siva, su lejanía no es humana. Las posturas del amor son siempre tensas, ninguna es espontánea; se está 
 cumpliendo un ritual. Todo este mundo en apariencia ardido, está iluminado por un sol frío. Es el muro de 
@@ -329,7 +329,7 @@ nuestra existencia, la pared del templo, lo que acontece al lado de afuera. Es M
 escarpado del monte Kailas, donde cada roca es un dios que se acopla y ama. La cumbre está más allá de las 
 nubes. Este templo es tu cuerpo. 
 
-—Me lo adelantó el Maestro -dijo el joveen con devoción. 
+—Me lo adelantó el Maestro —dijo el joven con devoción. 
 
 —El templo está construido de una sola rroca, como la montaña de Siva. Antes de entrar, observa las figuras 
 aquí talladas por los escultores de Khajuraho. No hay nada de naturalista en su arte. Nunca más en la tierra se 
@@ -342,23 +342,23 @@ que puedan hacer olvidar, interpretaciones piadosas. Pero la señal ha sido dada
 Observa el rostro del esposo en el momento de fundirse con la esposa. Expresa placer, dolor, ausencia; todo a 
 la vez. Contempla la delicadeza de su abrazo, sosteniendo a la amada, protegiéndola de ella misma. Mira los 
 dedos de su otra mano, en el gesto ritual. Observa las piernas entrelazadas y el beso de piedra, descubriendo el 
-sentido de un roce que sólo se reencontrará al final de los tiempos... Sí, temo que este templo esté siendo 
+sentido de un roce que sólo se rencontrará al final de los tiempos... Sí, temo que este templo esté siendo 
 batido por un viento que procede de la esfera propia de una decadencia de los inmortales. Sólo dioses 
 enamorados de lo humano han podido favorecer la realización de este arte. Únicamente seres con ansias 
 diabólicas de los divino... 
 
 * * * 
 
-Todos los templos de Khajuraho van en dirección de norte a sur, menos el de Chosant Jogini, el de Siva, el 
-dios temible y vernáculo, el cual va de oriente a occidente, como si estuviera indicando que algo muy especial 
-deberá ser transportado en esa dirección. Es también el único templo construido de granito; los otros son de 
+Todos los templos de Khajuraho van en direción de norte a sur, menos el de Chosant Jogini, el de Siva, el 
+dios temible y vernáculo, el cual va de oriente a ocidente, como si estuviera indicando que algo muy especial 
+deberá ser transportado en esa direción. Es también el único templo construido de granito; los otros son de 
 piedra blanda, coloreada. 
 
 El templo de Siva es una mandala difícil de penetrar, defendido en su umbral por el guardián Ganesha. Todo 
 templo termina siempre en un muro sin salida. Pero en Khajuraho los templos tienen al final tres pequeñas 
-puertas que dan salida al sur. El templo de Siva abre tres puertas hacia occidente. 
+puertas que dan salida al sur. El templo de Siva abre tres puertas hacia ocidente. 
 
-—Vas conmigo de la mano, por dentro de ttu cuerpo, buscando la entrada y la salida del mandala, del laberinto, 
+—Vas conmigo de la mano, por dentro de tu cuerpo, buscando la entrada y la salida del mandala, del laberinto, 
 ascendiendo por cada una de tus flores. Estamos ahora en la primera. Di OM. 
 
 Iban gritando. 
@@ -366,7 +366,7 @@ Iban gritando.
 En la penumbra, cargada de humos de sándalo, se adivinaban celdas laterales con doble puerta de madera. 
 Una de ellas era la celda de la sacerdotisa. 
 
-—Aquí medito. Desde aquí he salido a busscarte. 
+—Aquí medito. Desde aquí he salido a buscarte. 
 
 Penetraron en el gabhagriha, o sancta sanctorum. Daba la impresión de un cráter y el adepto se sintió como 
 arrastrado por una fuerza poderosa. Se arrojó al suelo, repitiendo mantrams. 
@@ -388,12 +388,12 @@ que se acercase, repitiendo sus movimientos. Le pasó el aceite, y él lo dejó 
 Los tres permanecieron reclinados en igual posición, junto al símbolo oscuro. Ella volvió a levantarse y le 
 entregó al escultor ciego una jofaina con agua. 
 
-—Soy el río -dijo-. Tú eres quien realmeente ve; también eres la piedra en medio del río, el que trabaja la 
+—Soy el río —dijo—. Tú eres quien realmente ve; también eres la piedra en medio del río, el que trabaja la 
 piedra. 
 
 El escultor ciego se irguió y dejó caer el agua sobre la cabeza del adepto. 
 
-—Eres el pez en el río. Nada, busca tu ccamino hacia Occidente. 
+—Eres el pez en el río. Nada, busca tu camino hacia Ocidente. 
 
 Aún antes de la primera piedra, el templo ya está aquí. Sólo ha sido hecho visible. En los muros del templo, la 
 esposa se contempla en un espejo, admirando una belleza que se decompondrá irremediablemente. Todo esto 
@@ -418,15 +418,18 @@ ascender a un vegetal y a un mineral. Sube, disuelve tu forma para ayudarlos, po
 
 Vino un dios cornudo, de pies torcidos, que portaba una flauta. Y empezó a danzar ya cantar: 
 
+::: {.verse}
 Los lagares son azules
 El vino es rojo
 El sol quema el vientre
 de las danzantes
 ¡Ven al jardín de Brindavan! 
+:::
 
 Cerraba los ojos, e imploraba. Entonces el dios pasaba por su cuerpo ardido un polvo azul, como de estrellas. 
 Tomaba su flauta y cantaba: 
 
+::: {.verse}
 ¡Oh, Baghavan!
 ¿Posarás tus ojos sobre tu servidor?
 Imploremos a aquel a quien tu oración dice:
@@ -434,9 +437,11 @@ Imploremos a aquel a quien tu oración dice:
 y en todo sitio, ese especial estado
 que adorna la brillante
 corona de los dioses! 
+:::
 
 Se detenía un instante, o quizás años, para volver a cantar en la noche., junto al árbol del penitente: 
 
+::: {.verse}
 ¡Oh, diosa
 que a voluntad puedes
 mover los tres mundos!
@@ -450,6 +455,7 @@ deja caer refrescante ambrosía
 sobre los que se queman en fiebres!
 ¡Reposa un instante tu cabeza
 y decansa! 
+:::
 
 * * * 
 
@@ -544,7 +550,7 @@ Le pidió que también le hablara de su infancia. Así lo hizo el penitente. Per
 desarrollaba aquí, en este tiempo, y otra en un país del futuro. 
 
 Ella no se extrañó por eso. Fijó sus ojos oscuros en un punto lejano, sobre las copas de los árboles y le habló 
-de una ciudad que tenía por nombre Ur. Era ahí -dijo- donde había jugado con otros niños. 
+de una ciudad que tenía por nombre Ur. Era ahí —dijo— donde había jugado con otros niños. 
 
 Esa noche le pidió que no durmiera a sus pies, sino a su lado izquierdo. Obedeció el penitente, cruzó sus 
 manos sobre el pecho y fijó su mirada en el cielo profundo. Ella se reclinó sobre su brazo derecho. 
@@ -571,14 +577,14 @@ lagrimas con el sari.
 
 Por primera vez la vio como a una extraña. 
 
-—Hoy sé que mi rueda continuará girando -le respondió. 
+—Hoy sé que mi rueda continuará girando —le respondió. 
 
-—También la rueda del que se ha desposaddo en la Copa del Árbol ha continuado girando. Existe un 
+—También la rueda del que se ha desposado en la Copa del Árbol ha continuado girando. Existe un 
 matrimonio secreto. Para cumplirse sólo necesita de la luz de una estrella. Te desposas mirando esa estrella, y 
 basta una declaración de amor transmitida por su luz. Si el mensaje llega hasta ti, estás ya desposado en la 
 eternidad. 
 
-—Siento que me he desposado así en el fuuturo -dijo él. 
+—Siento que me he desposado así en el futuro —dijo él. 
 
 * * * 
 
@@ -619,6 +625,7 @@ El y ella se reclinan, una al lado del otro, en la espera.
 Se oye una voz que invita al festín. Se consagran los manjares con mantrams y signos, coreados y repetidos 
 por las servidoras y los huéspedes. Primero se consagra el agua y el vino: 
 
+::: {.verse}
 ¡Introduce tu alegría en este vino
 para que sea curso de eterna vida
 felicidad e indestructible placer!
@@ -628,19 +635,24 @@ la que representa todos los sabores
 del universo
 y es el esperma de la segunda creación
 de los nacidos dos veces! 
+:::
 
 Se escancia el vino en el cáliz y se recita el mantram del sol: 
 
+::: {.verse}
 ¡Kang, Bang, Tapinyai, Namah!
 ¡Kang, Bang, Tapinyai, Namah!
 ¡Gang, Phang, Ngang, Ngang!
 ¡Chang, Dhang, Jhang, Tang, Nyang!
 ¡Nang, Thang, Dang, Thang, Dan! 
+:::
 
 Se llena tres cuatros de una copa con el vino, el resto con agua y se recita ahora el mantram de la luna: 
 
+::: {.verse}
 ¡Ung, Soma, Mandalaya,
 Sodaza, Kalatmane, Namah! 
+:::
 
 Se ha transformado el vino en néctar, destruyéndose la maldición que pesaba sobre él desde antiguo. Es ahora 
 el mágico brebaje, que ayuda a cruzar el umbral, es sangre del sol y de la luna. 
@@ -650,7 +662,7 @@ volviéndose hacia el Norte, luego hacia el Sur. Se recita un mantram que comien
 Ghanesa, el guardián del umbral. 
 
 Con la primera copa de vino se come carne cocida; con la segunda, pescado; con la tercera, cereales. Después, 
-se come lo que se desee, pues también el alimento ha sido transformado en carne de un dios. 
+se come lo que se dese, pues también el alimento ha sido transformado en carne de un dios. 
 
 Al beber la quinta copa de vino, se entonan cánticos y se hace sonar un cuerno ronco. Ya no se bebe más. La 
 voz invisible describe la cima del monte Kailas, señor de los montes, resplandeciente en piedra de luna, con 
@@ -677,17 +689,20 @@ distintos centro, sus flores, hasta caer suavemente abierta sobre el lingam.
 
 El hombre siente que ha penetrado a la mujer, yendo a una región verde-oscura, con el sabor de la endrina. La 
 mujer inicia un ritmo lento, mientras las servidoras, que están también desnudas, reproducen los gestos y 
-acciones de las esculturas del templo. Se forma así un universo que se agita con cadencia creciente, al tiempo 
+aciones de las esculturas del templo. Se forma así un universo que se agita con cadencia creciente, al tiempo 
 que alguien canta: 
 
+::: {.verse}
 ¡Oh, Casto, sólo tu esposa existe
 en el tiempo de la gran dispersión
 todos los otros mueren
 y aún el ojo abierto del
-gran Uno se cierra! 
+gran Uno se cierra!
+:::
 
 El ritmo acelera, se hace intenso. La mujer busca sus labios. 
 
+::: {.verse}
 ¡Oh, destructor
 el suelo ardido es tu campo de juego
 tu arte son las cenizas de las piras funerarias
@@ -703,16 +718,19 @@ sus ojos llenos de lágrimas de alegría
 inmerso en un lago de néctar delicioso
 aquél sube a la cima del Kailas
 ¡Reverencia a ti, el tres ojos!
+:::
 
 Parece como que la mujer pierde el control. Comienza a gemir y sus labios abiertos buscan los del héroe, 
 penetrándolos con su lengua húmeda. 
 
 Las servidoras cantan: 
 
+::: {.verse}
 ¡Terrible, bello! ¡Casa de nuestra señora!
 ¡Bosque de Durga! ¡Hija de Matanga!
 ¡Esposa de Brahma! ¡Kumari, Lakshmi!
 ¡Pura! ¡Pura! 
+:::
 
 El concentra su voluntad en el entrecejo, tratando de ausentarse, aún cuando sin dejar de participar en el 
 drama, en cada uno de sus detalles, sintiendo a la mujer, sus labios en sus labios, sus piernas oprimiendo sus 
@@ -743,7 +761,7 @@ preguntó a una muchacha por el suceso de aquel día. Le respondió que era la F
 —La última; porque el monje Domingo ha prohibido cantar al ruiseñor. El ave me avisa en mi ventana si mi 
 amado vendrá hoy. Las flores que ves en los dinteles son para proteger del mal a la ciudad. 
 
-—Dime, muchacha -interrumpió el caballeero-, ¿podrías indicarme dónde vive el Arcediano Sans Morlane? 
+—Dime, muchacha —interrumpió el caballero—, ¿podrías indicarme dónde vive el Arcediano Sans Morlane? 
 Debo encontrarle. 
 
 —Es un cátaro. Hoy los cátaros se ocultan; la Inquisición controla la región. Sólo Montsegur resistirá. Pero hoy 
@@ -751,15 +769,15 @@ es la Fiesta de Mayo; todos son los otros y nadie es quien es verdaderamente. Lo
 los romanos son los cátaros; los maridos son los amantes y los amantes, los maridos. En este día, los amos 
 sirven a los servidores. Todo es lo que no es. 
 
-—O lo que realmente es -musitó el caballlero. 
+—O lo que realmente es —musitó el caballlero. 
 
-—Es una fiesta muy antigua -terció un aanciano que había escuchado la conversación-. Fiesta de Mayo, o 
+—Es una fiesta muy antigua —terció un anciano que había escuchado la conversación—. Fiesta de Mayo, o 
 Maya. 
 
 Se quitó la máscara y se vio que era un adolescente. En verdad, era una muchacha que besaba a la muchacha, 
 la que le devolvió el beso con pasión, riendo de placer. 
 
-—¡Sea lo que sea! Nunca lo sabré en estte día -exclamó. 
+—¡Sea lo que sea! Nunca lo sabré en este día —exclamó. 
 
 En verdad era un trovador. 
 
@@ -768,23 +786,23 @@ nave izquierda, parado sobre la losa de una tumba. Estaba embozado en una capa a
 
 —Me han dicho que tú podrás ayudarme a entrar a Montsegur. 
 
-—¿Eres por acaso un cátaro? ¿Has recibiido el consolamentum? 
+—¿Eres por acaso un cátaro? ¿Has recibido el consolamentum? 
 
-—No, pero he tenido un sueño de amor. HHe visto a mi amada al otro lado de un puente levadizo, junto a la 
+—No, pero he tenido un sueño de amor. He visto a mi amada al otro lado de un puente levadizo, junto a la 
 entrada de un castillo, que tiene cinco puertas, y ella me decía algo cuyo secreto deberé guardar. Sé que tendré 
 que cruzar ese puente antes de que las cinco entradas se cierren en definitiva. 
 
-—Montsegur sólo tiene dos entradas, unaa al Norte y otra al Sur. Realmente, tiene una sola, pues la del Norte 
+—Montsegur sólo tiene dos entradas, una al Norte y otra al Sur. Realmente, tiene una sola, pues la del Norte 
 está reservada para los Perfectos. 
 
-—Dos nombres he escuchado en sueños: Moontabor y Montsegur... 
+—Dos nombres he escuchado en sueños: Montabor y Montsegur... 
 
 —¿Eres un cátaro? 
 
-—Si no lo fuera, ¿cómo conocería tu nommbre? ¿Cómo sabría que estás muerto y que ahora te hallas parado 
+—Si no lo fuera, ¿cómo conocería tu nombre? ¿Cómo sabría que estás muerto y que ahora te hallas parado 
 sobre la losa de tu tumba? 
 
-—Tienes razón. Sólo alguien que viva enn el futuro, que venga a visitarnos desde el futro y ya no nos pueda 
+—Tienes razón. Sólo alguien que viva en el futuro, que venga a visitarnos desde el futro y ya no nos pueda 
 hacer daño. Ve a Fanjeaux, busca allí al último cátaro. Le encontrarás setecientos años más tarde. Se llama 
 Roques Marceau. Y si puedes, ve también a Esclermunda. En verdad, ella es una paloma. 
 
@@ -793,27 +811,27 @@ Fanjeaux, cubierta de nubes bajas, con ruido de armas y una pesada atmósfera de
 perdida, encontró al último cátaro, Roques Marceau. Le miró a los ojos y no necesitó decirle nada. El hombre 
 le reconoció. 
 
-—En alguna parte nos hemos visto -dijo--. ¿Vienes a que te haga el horóscopo, o a que te trace los colores de tu 
+—En alguna parte nos hemos visto —dijo—. ¿Vienes a que te haga el horóscopo, o a que te trace los colores de tu 
 alma? El mozuelo no está conmigo esta vez para pasarme los pinceles. 
 
-—No, sólo vengo a que me señales el cammino de Montsegur. 
+—No, sólo vengo a que me señales el camino de Montsegur. 
 
-—De nuevo preguntas por un monte. Te loo dije ya en alguna parte, Montsegur no está afuera, sino adentro de 
+—De nuevo preguntas por un monte. Te lo dije ya en alguna parte, Montsegur no está afuera, sino adentro de 
 ti. ¿Por qué sigues buscando en lo externo? 
 
-—Debo ir. Además, deseo ver a Esclermunnda, si esto aún fuera posible. Dicen que ella construyó Montsegur. 
+—Debo ir. Además, deseo ver a Esclermunda, si esto aún fuera posible. Dicen que ella construyó Montsegur. 
 
-—Siguiendo el camino de los sueños -dijjo el último cátaro. 
+—Siguiendo el camino de los sueños —dijo el último cátaro. 
 
 Le guió por unas callejuelas hasta el lugar donde setecientos años antes se levantara el castillo de Fanjeaux, en 
 la Rúa de Castello. 
 
-—¡Pura ruina! ¡Nada queda ya, ni una piiedra sobre piedras! 
+—¡Pura ruina! ¡Nada queda ya, ni una piedra sobre piedras! 
 
-—Es que has regresado muy tarde, cuandoo han transcurrido siglos desde que el castillo de Montsegur fuera 
+—Es que has regresado muy tarde, cuando han transcurrido siglos desde que el castillo de Montsegur fuera 
 tomado y destruido... 
 
-—A veces creo estar soñando. No sé si hhe soñado el pasado o el futuro. 
+—A veces creo estar soñando. No sé si he soñado el pasado o el futuro. 
 
 —Escucha, ya que has venido nuevamente,, te revelaré el secreto. Allá, en la base del monte, en un recinto 
 sombrío, en una celda cuadrangular, duerme, desde tiempos inmemoriales, una bella mujer. Nadie la ha 
@@ -822,31 +840,32 @@ tierras y tiempos. Cuando despierte, se destruirá Montsegur y los Perfectos per
 
 —Vengo a luchar por Montsegur. No seré yo quien despierte a esa dormida. 
 
-—Los Perfectos saben lo que hacen, no sse equivocan. Son dirigidos desde afuera de ellos mismos, por alguien 
-que les piensa o sueña. Tal vez por la Dama que duerme. La destrucción de Montsegúr es su triunfo. ¡Ve y 
+—Los Perfectos saben lo que hacen, no se equivocan. Son dirigidos desde afuera de ellos mismos, por alguien 
+que les piensa o sueña. Tal vez por la Dama que duerme. La destrución de Montsegúr es su triunfo. ¡Ve y 
 despierta a la Dama! ¡Salva a Montsegúr! 
 
 Con el corazón oprimido, el caballero se alejó del último cátaro. Sentía hambre y sed. Entró en una posada y 
 pidió de comer. En la rústica mesa se sentó un trovador. 
 
-—Antaño, éramos los escultores del tempplo. Hoy lo reconstruimos con nuestros versos. 
+—Antaño, éramos los escultores del templo. Hoy lo reconstruimos con nuestros versos. 
 
-—¿Crees en la reencarnación, juglar? ¿NNo te está ello prohibido? 
+—¿Cres en la rencarnación, juglar? ¿No te está ello prohibido? 
 
-—Mis maestros, los Perfectos, creen en la reencarnación. No nos está aún permitido cantarla en nuestras trovas; 
+—Mis maestros, los Perfectos, cren en la rencarnación. No nos está aún permitido cantarla en nuestras trovas; 
 
 pero si Montsegúr vence, empezaremos, poco a poco, a revelarla. Está contemplado en el plan aún cuando los 
-Perfectos parecieran dudar de si será bueno entregar la creencia a todo el mundo. Sólo los que han recibido el 
+Perfectos parecieran dudar de si será bueno entregar la crencia a todo el mundo. Sólo los que han recibido el 
 Consolamentum se hallan preparados. 
 
 —Y tú, ¿has recibido el Consolamentum? 
 
-—Soy ciego -dijo el trovador. 
+—Soy ciego —dijo el trovador. 
 
-—¿Por qué no cantas, para alegrar mi coorazón? 
+—¿Por qué no cantas, para alegrar mi corazón? 
 
 El trovador pulsó su laúd: 
 
+::: {.verse}
 Construyo un castillo
 Castillo noble y gentil
 Tan hábilmente como puedo
@@ -865,7 +884,7 @@ Y blancos corderos
 Como símbolos de amor
 Ahí reposa la amada
 Que implora con dulzura
-Por la protección de su bien
+Por la proteción de su bien
 En el instante de gran necesidad
 La primera puerta está siempre abierta
 La segunda está cerrada
@@ -908,6 +927,7 @@ Residencia a la que pertenezco
 Estas son las palabras
 Y el mensaje 
 Que de lejos te son enviados
+:::
 
 Calló el trovador. El caballero se había dormido con la cabeza reclinada en un brazo en la rústica mesa de la 
 posada. Soñaba de nuevo con el puente levadizo. En el otro extremo aparecía siempre la dama vestida con una 
@@ -935,9 +955,9 @@ Las palabras le eran incomprensibles, pero estaban allí, como suspendidas en el
 
 Vino el trovador y cantó nuevamente: 
 
+::: {.verse}
 Como dijera Perceval
 En los tiempos en 
-
 qué el vivía
 Sé tan fuerte y maravilloso 
 Que no puedas pedir
@@ -950,16 +970,17 @@ Yo lo olvido todo
 Sólo deseo implorarte
 Y no lo puedo
 ¡Yo sólo sueño...!
+:::
 
 El caballero empezó a vivir en sueños. El aire enrarecido de la caverna era propicio a las alucinaciones. 
 Parecióle que una mujer entraba a la gruta. No tenía rostro. Caminaba hasta el fondo, tomaba el rostro de la 
 roca y se lo colocaba sobre el cuerpo. 
 
-—Ahora puedo hablarte, porque tengo bocca -dijo, con majestad-. Puedo hacerlo en nombre de todos ellos, 
+—Ahora puedo hablarte, porque tengo boca —dijo, con majestad—. Puedo hacerlo en nombre de todos ellos, 
 porque soy el Maestro de sus Maestros. Los Perfectos me pertenecen totalmente. Vengo de lejos. Con los 
 cátaros y los trovadores me estoy apoderando de toda esta región. Soy la Madre. Sólo yo conozco el secreto. 
 
-—Me parece que ya he oído en algún otroo lugar esas palabras -replicó el caballero-. Mejor será que pregunte 
+—Me parece que ya he oído en algún otro lugar esas palabras —replicó el caballero—. Mejor será que pregunte 
 directamente a los Perfectos. 
 
 "Apresúrate", le dijo una voz, parecida a la del trovador. "porque luego, cuando todo desaparezca, lo que 
@@ -971,12 +992,12 @@ durmió de bruces sobre la hierba.
 
 De amanecida, el trovador le trajo leche de cabras montaraces. 
 
-—¿Dónde te ocultas? Te he llamado a griitos. ¿Sabes cuánto tiempo más deberé pensar en este gruta? Debo ir a 
+—¿Dónde te ocultas? Te he llamado a gritos. ¿Sabes cuánto tiempo más deberé pensar en este gruta? Debo ir a 
 Montsegúr. Se me ha dicho que me queda poco tiempo, que el castillo está sitiado. 
 
-—Se dice que la preparación dura veintee años...¿Cuánto llevas aquí? 
+—Se dice que la preparación dura veinte años...¿Cuánto llevas aquí? 
 
-—Varios siglos -dijo el caballero-. Déjjame sacar cuentas. Estamos acercándonos al año 1244, y yo vengo del 
+—Varios siglos —dijo el caballero—. Déjame sacar cuentas. Estamos acercándonos al año 1244, y yo vengo del 
 900, en Asia... Sí, en verdad, son sólo minutos. 
 
 * * * 
@@ -986,6 +1007,7 @@ irse.
 
 He aquí la canso: 
 
+::: {.verse}
 Lanquam li jorn lonc en may
 M'es belhs dous chans d'auzelhs de lohn
 E quan mi suy partiz de lay
@@ -993,6 +1015,7 @@ E quan mi suy partiz de lay
 Remembram d'un amor de lohn
 Vau de talan embronc e clis
 Nom platz plus que l'yvern getalatz.
+:::
 
 Comenzó a caer la nieve. Estalactitas crecieron en la caverna. Sin embargo, el caballero no sintió el frío. Ya 
 no estaba allí. Viajaba en un estado especial, como de sueño. 
@@ -1006,7 +1029,7 @@ montaña. El caballero iba allí comprendiendo que esto no era del tiempo de su 
 había pasado en los siglos, estaba ascendiendo un monte paralelo, al lado opuesto del acontecimiento. Alguien 
 miraba arriba, a través de un largo tubo, sostenido con ambas manos sobre un ojo. Al verle llegar, dijo: 
 
-—¡Viajero, sigue tu camino, retorna a ttu tiempo! 
+—¡Viajero, sigue tu camino, retorna a tu tiempo! 
 
 Abajo, a los pies de la montaña, se extendía n lago de sombrías aguas verdes. 
 
@@ -1051,12 +1074,12 @@ suelo, ni tocar las estalactitas. Con los brazos extendidos y los ojos fijos, se
 rincón, y allí se sentó por un instante, en posición inmóvil, desprendiendo una suave claridad de todos sus 
 miembros. 
 
-—Escuché tu llamada y vengo a pedirte qque me saques del sueño. Duermo por edades. Hasta que no despierte, 
+—Escuché tu llamada y vengo a pedirte que me saques del sueño. Duermo por edades. Hasta que no despierte, 
 al fondo de mí caverna, no será posible destruir a Montsegúr. 
 
-—He venido a luchar por Montsegúr -repiitió el caballero. 
+—He venido a luchar por Montsegúr —repitió el caballero. 
 
-—La destrucción de Montsegúr es su salvvación. 
+—La destrución de Montsegúr es su salvación. 
 
 Se levantó, siempre con los brazos extendidos, y se volvió para irse como sobre un rayo de luz blanca. Un 
 perfume a flores afiebradas, a tumbas antiguas, quedó flotando en el aire de la caverna. 
@@ -1064,7 +1087,7 @@ perfume a flores afiebradas, a tumbas antiguas, quedó flotando en el aire de la
 Las lágrimas corrían por el rostro del caballero; porque en las delicadas manos, entre dos de sus finos dedos, 
 había descubierto una mancha blanca. 
 
-—¡Lepra, reconozco esa antigua lepra! --exclamó. 
+—¡Lepra, reconozco esa antigua lepra! —exclamó. 
 
 Y, de hinojos: 
 
@@ -1094,7 +1117,6 @@ por las estrellas, hastiar a detenerse junto a un centinela de guardia en una en
 suspiraría en sueños al sentirla pasar. 
 
 Y en la torre más alta, ella atisbaba las distancia con sus ojos que no ven, recorriendo el valle, la selva, para 
-
 descubrir si su caballero vendría al fin. 
 
 * * * 
@@ -1103,7 +1125,7 @@ Después de la primera visita, dejó de ir por largo tiempo.
 
 Volvió el trovador con su laúd; se sentó bajo un árbol nevado, y le explicó: 
 
-—Este camino que tu inicias, fue revelaado al primer trovador por un halcón parado en la rama dorada del más 
+—Este camino que tu inicias, fue revelado al primer trovador por un halcón parado en la rama dorada del más 
 antiguo árbol del Edén. Eres ahora el suplicante... Sólo quien esté preparado alcanzará a Montsegúr. 
 
 Regresó ella, al fin. Sin entrar en la gruta, le dijo; 
@@ -1126,7 +1148,7 @@ Calló el caballero. Ella se irguió con un estremecimiento y siglos...
 Vino a buscarle con sus brazos extendidos, con sus manos moviéndose en el aire quebradizo, en procura de su 
 rostro. 
 
-—Bello amigo, si jamás fueras mío... ¡AAh, si me es dada una noche para acostarme a tu lado con el placer de 
+—Bello amigo, si jamás fueras mío... ¡Ah, si me es dada una noche para acostarme a tu lado con el placer de 
 oprimirte entre mis brazos desnudos! ¡Te doy mi corazón, mi alma, mis ojos y mi vida! 
 
 Sus manos encontraron su rostro. Lo atrajo muy suavemente. Suspirando, apenas, posó sus labios en los de él. 
@@ -1137,7 +1159,7 @@ Y se fue, sin pisar sobre el hielo.
 
 El trovador, omnipresente, volvió a traerle el alimento y a mantener el fuego.. 
 
-El castillo del amor tiene cinco entradas -decía-. Te faltan aún tres por descubrir. Esta ve no cantaré más, 
+El castillo del amor tiene cinco entradas —decía—. Te faltan aún tres por descubrir. Esta ve no cantaré más, 
 porque nada podría agregar a lo que aquí se ha dicho. 
 
 El arrobamiento llenaba ahora los días del caballero con una especial luminosidad y con un calor dulcísimo. 
@@ -1148,7 +1170,7 @@ perfume de su sueño.
 
 El trovador vino con la noticia de la próxima visita. Se la anunció a la entrada de la gruta. 
 
-—Prepara tu morada. Hoy vendrá de nuevoo y te entregará un don del cielo. 
+—Prepara tu morada. Hoy vendrá de nuevo y te entregará un don del cielo. 
 
 * * * 
 
@@ -1179,7 +1201,7 @@ Ella volvió. Caminó sin titubear hasta el lecho de ramas y pellizcos. Venía d
 desvistió al caballero. Se tendió a su lado, cruzó los brazos sobre el pecho, clavó sus ojos muy abiertos en el 
 techo de la gruta y dijo, dentro del sueño: 
 
-—Caballero, no soy yo quien viene, eress tú quien ha ido hasta mi lecho, en el monte; has estado en el círculo 
+—Caballero, no soy yo quien viene, eres tú quien ha ido hasta mi lecho, en el monte; has estado en el círculo 
 de mi tumba de piedra, donde estoy muerta, o quizás sólo duerma. Confío en que me despertarás, haciendo 
 únicamente aquello que te es permitido. Necesito de tus caricias. Comienza por mis cabellos; oprime ahora 
 mis pechos. Demórate aquí un momento. Hay ahí dos pequeños frutos que se abren al contacto de la yema de 
@@ -1206,7 +1228,7 @@ El rostro apareció de nuevo, al fondo de la gruta. Con una insinuante expresió
 
 —¡Ven, poséeme como un guerrero! Te darré mi corazón para que lo devores. Bebamos nuestras sangres. 
 
-—Es tarde -respondió el caballero-. Tall vez si hubieras venido antes, si no te hubieras ido... El amor tiene un 
+—Es tarde —respondió el caballero—. Tall vez si hubieras venido antes, si no te hubieras ido... El amor tiene un 
 solo deseo: la fusión de los corazones. El rostro se esfumó en el muro. 
 
 Regresó entonces la despierta. Le envolvió en sus brazos y le besó con los labios entreabiertos, suspirando. 
@@ -1243,11 +1265,12 @@ conocía ya el rumbo. No podía errar.
 
 Por el camino, se le unió el trovador. El caballero le saludó, diciéndole: 
 
-—¡Vamos al combate! ¡Vamos a destruir een nosotros todo lo que puede perecer! Canta una canción que nos 
+—¡Vamos al combate! ¡Vamos a destruir en nosotros todo lo que puede perecer! Canta una canción que nos 
 ayude a cruzar las filas de los ejércitos enemigos. 
 
 El trovador tomó su laúd y cantó: 
 
+::: {.verse}
 Mucho me place el alegre tiempo
 Que hace nacer hojas y flores
 Me place oír el dichoso ruido
@@ -1270,13 +1293,14 @@ Y correrán en desorden los caballos
 Relincharán por doquier
 En la arboleda, sin dueño los caballos...
 Y yo te digo: ¡Quédate ya en paz!
+:::
 
 Subieron el sendero del monte hasta la empinada cumbre. Y se encontraron frente a la entrada del castillo de 
 Montsegúr. 
 
 Al otro extremo, en el umbral, le esperaba ella. 
 
-—Yo soy tú -le dijo. 
+—Yo soy tú —le dijo. 
 
 Y él pudo cruzar ahora ese umbral. 
 
@@ -1301,7 +1325,7 @@ Su dama cruzó el círculo. El permaneció en pie, esperando. Ella le preguntó:
 
 —Mi dulce amigo, ¿qué ha sucedido a mi corazón? 
 
-—Late aquí en mi pecho, señora, con doss golpes a la vez, que van repitiendo tu nombre y el mío. Es un espejo, 
+—Late aquí en mi pecho, señora, con dos golpes a la vez, que van repitiendo tu nombre y el mío. Es un espejo, 
 un reloj de arena, que me dice lo que aún me falta... 
 
 Hubo un gesto de aprobación dentro del círculo. Y él pudo ahora entrar allí y sentarse junto a su dama, 
@@ -1315,7 +1339,7 @@ recinto en la base del monte, donde guardara por edades el tesoro de los cátaro
 
 Desde las altas almenas le señalaba las cumbres y los valles. En la luz mortecina del crepúsculo, le explicaba: 
 
-—El sol se pone sobre estas cimas que ppor siglos fueran refugios de hombres puros y de magos. Cuando las 
+—El sol se pone sobre estas cimas que por siglos fueran refugios de hombres puros y de magos. Cuando las 
 grandes aguas desbordadas sumergieron el continente central de los hombres dioses, cuando la tercera luna 
 cayó sobre la tierra, aquí se guardaron las claves salvadas del Diluvio. Ellas van circulando de mundo en 
 mundo. Lo que se ha llamado Grial, es una piedra celeste que cayó sobre nuestro astro, al partirse en mil 
@@ -1335,7 +1359,7 @@ ruinas...
 La delicada mano, con una pálida mancha entre el anular y el índice, se levante contra el sol del atardecer, 
 para señalarle las distintas cumbres: 
 
-—Allá se encuentran las cavernas y la MMontaña Negra, donde se prepara a los buscadores. Nos separa de ese 
+—Allá se encuentran las cavernas y la Montaña Negra, donde se prepara a los buscadores. Nos separa de ese 
 otro monte el Lago de la Muerte. Cuando Montsegúr sea consumido por el fuego, el tesoro deberá ser 
 transportado de centro en centro, hasta alcanzar un día la montaña que hay en Venus, su último refugio, donde 
 reconstruiremos, con un trozo terrestre, la Corona, tal como fuera de hermosa antes de romperse... 
@@ -1345,7 +1369,7 @@ reconstruiremos, con un trozo terrestre, la Corona, tal como fuera de hermosa an
 Muchas veces recorrió el castillo, desde su base subterránea hasta las almenas más empinadas, pero nunca 
 cruzó la puerta del Norte. 
 
-—Conozco ya bien este castillo -dijo-; lo he recorrido muchas veces; me siento un prisionero, como si al ir y 
+—Conozco ya bien este castillo —dijo—; lo he recorrido muchas veces; me siento un prisionero, como si al ir y 
 venir, me estuviera topando en un punto alto, en una última almena. Antes de la batalla final, pienso que 
 debería cruzar la puerta del Norte y visitar a los Perfectos, para que ellos me preparen. Llévame a cruzar esa 
 puerta... 
@@ -1370,9 +1394,9 @@ inmóviles, sino un poco hacia el techo de la cabaña:
 
 Permaneció largo rato en silencio. Le costaba hablar. La lengua y los labios se hacían como de piedra. 
 
-—Quiero saber, -dijo al fin- ¿dónde esttamos? 
+—Quiero saber, —dijo al fin— ¿dónde estamos? 
 
-—¿No comprendes, viajero -respondió la voz- que visitas una ruina de un castillo destruido hace setecientos 
+—¿No comprendes, viajero —respondió la voz— que visitas una ruina de un castillo destruido hace setecientos 
 años, que todo lo que dentro del castillo has visto no es sino la sombra de algo que fue en la tierra y que ahora 
 se transporta en la luz de un astro? Allí también voy. En verdad, tú has venido en el futuro. Debo admirarme 
 de que hayas podido cruzar los enrevesados planos de la luz. Te has extraviado, o te has transplantado a un 
@@ -1411,7 +1435,7 @@ Toma un sendero que atraviesa un claro y le conduce fuera del bosque. En el hori
 extienden las cumbres nevadas de los Andes. 
 
 Al atardecer, el hombre se detiene. Amarra su cabalgadura en la rama de un árbol y comienza a escalar en 
-dirección de una abertura en la pared del monte. Ve que una sombra baja en su dirección, con los brazos 
+direción de una abertura en la pared del monte. Ve que una sombra baja en su direción, con los brazos 
 extendidos. La cubre un poncho que flota en la brisa del crepúsculo. Es un anciano de barba y cabellos largos. 
 Al encontrarle, a mitad de la pendiente, parece no verle. Sus manos se posan primero en sus hombros, luego 
 suben hasta su rostro y lo recorren. Se detienen en su pelo. 
@@ -1425,31 +1449,31 @@ Están ahora sentados junto al fuego. El viejo tiene los ojos azules y muertos. 
 
 —No me extraña que seas ciego, pero sí que seas blanco. Pensé encontrar aquí a un mapuche, de pelo hirsuto. 
 
-—Deberás explicarme a qué has venido -ddice el viejo. 
+—Deberás explicarme a qué has venido —dice el viejo. 
 
-—Me contaron que en el sur vivía un hieerbatero. Busco la yerba de la salud, para llevársela a una amiga. 
+—Me contaron que en el sur vivía un hierbatero. Busco la yerba de la salud, para llevársela a una amiga. 
 Quizás exista una raíz medicinal que pueda salvarla. 
 
-—No hay yerba que lo pueda. Su enfermeddad tiene que ver con la sangre que se derrama. Las yerbas y los 
+—No hay yerba que lo pueda. Su enfermedad tiene que ver con la sangre que se derrama. Las yerbas y los 
 metales se relacionan con los órganos del cuerpo. La pulmonaria es fibrosa. El copihue es una campánula de 
 sangre. La rosa es sangre coagulada. En algún lugar de esta cordillera, hay un muerto con una rosa en el 
 pecho... 
 
 —He venido en busca de la medicina... 
 
-—La loica tiene la pechuga roja y me ayyuda a encontrar el remedio. No se hace necesario que se lo lleves, ni 
+—La loica tiene la pechuga roja y me ayuda a encontrar el remedio. No se hace necesario que se lo lleves, ni 
 que ella lo beba. Bastará que toques la yerba, y, luego, pongas tu mano sobre su pecho. La enfermedad no está 
 en el cuerpo visible, sino en los otros. Es un desequilibrio entre los cuerpos y los soplos que los unen, un 
 desconcierto de las corrientes. También los astros tienen que ver en todo esto. ¿Cuál es la piedra de tu amiga? 
 
 —El topacio. 
 
-—Del Polo Sur se desprende una corrientte de color anaranjada. Este Polo representa los órganos sexuales de la 
+—Del Polo Sur se desprende una corriente de color anaranjada. Este Polo representa los órganos sexuales de la 
 tierra. También el lado izquierdo del hombre despide una luz anaranjada. 
 
 —Me extraña que sea un blanco... 
 
-—También Quetzalcoatl era blanco... ¿Coonoces el verdadero nombre de América? Es Albania, tierra blanca, 
+—También Quetzalcoatl era blanco... ¿Conoces el verdadero nombre de América? Es Albania, tierra blanca, 
 de los dioses blancos. En Albania se oculta un tesoro que no es material; es un oro que se bebe... ¿No es esto 
 lo que tu buscas para tu amiga? Se lo darás a beber mejor cuando esté muerta... Hay dos caminos; uno es seco 
 y es más corto. El otro es el camino húmedo y es más difícil, porque es el de las lágrimas 
@@ -1461,7 +1485,7 @@ plata."
 
 El batir de las llamas acentuaba las sombras huidizas en el rostro del anciano. 
 
-—Llévale esta flor, crecida en el fuegoo. 
+—Llévale esta flor, crecida en el fuego. 
 
 * * * 
 
@@ -1483,12 +1507,12 @@ conocía bien esa mirada singular que, de tarde en tarde, se posaba en su rostro
 
 —¿Qué te dijo? 
 
-—Que América se llama Albania, tierra dde los dioses blancos, de Quetzalcoatl, de Kontiki, de Viracocha. ¿Has 
+—Que América se llama Albania, tierra de los dioses blancos, de Quetzalcoatl, de Kontiki, de Viracocha. ¿Has 
 oído esto antes? 
 
 —Sí. 
 
-—Me gustaría saber más -dijo él. 
+—Me gustaría saber más —dijo él. 
 
 Estaba sentado sobre el lecho. Ella le tomó la mano. 
 
@@ -1520,13 +1544,13 @@ hacia atrás del peregrino, del hijo pródigo, en busca del hogar antiguo, remon
 civilización también desaparece. Los hielos se hacen inhabitables, se eclipsa la isla de los hiperbóricos, la 
 legendaria Tule. 
 
-—Tal vez allí estuviese el Jardín con mmanzanas de oro, habitado por animales sonrientes... 
+—Tal vez allí estuviese el Jardín con manzanas de oro, habitado por animales sonrientes... 
 
 —Los animales estaban en el corazón dell hombre... Pero no todos los hiperbóreos perecen. Emigran hacia dos 
 ciudades secretas de los Himalayas, Agarthi y Shampula. En la primera se enseñaba el camino del amor 
 mágico, que se prolonga a través de los astros. En Agarthi se guardaba la piedra de esmeralda, en la que se 
 grabó la sabiduría de los antiguos. En Shampula se practicaba la magia de los gigantes que hizo posible las 
-construcciones megalíticas, los pilares del Cabo de Hornos, las islas del Pacífico, la puerta del templo de 
+construciones megalíticas, los pilares del Cabo de Hornos, las islas del Pacífico, la puerta del templo de 
 Kalasasaya, los rostros de roca en las altas cumbres, la distribución de mares y continentes y el dominio de esa 
 fuerza o energía capaz de construir y destruir los mundos. Se aspiraba en Shampula a producir una mutación 
 en la especie que permitiera volver a lo que fue antes de la mezcla con los hijos de los hombres... Como tú 
@@ -1537,14 +1561,14 @@ leyenda, interpretando literalmente el retorno al hogar perdido, se corre peligr
 
 Estaba cansada y su respiración se hacía difícil; pero su mirada abarcaba la noche del cuarto. 
 
-—Aquí, en el sur del mundo, la Ciudad ttiene diferentes nombres. Ha sido llamada De Los Césares, Trapalanda, 
+—Aquí, en el sur del mundo, la Ciudad tiene diferentes nombres. Ha sido llamada De Los Césares, Trapalanda, 
 Paitete, Elelin y Gran Quivira. Algunos de los Conquistadores españoles creían en su existencia y venían en 
 su búsqueda, más que de un tesoro material. Persiguieron la Ciudad hacia los hielos del Gran Sur, allí donde 
-se encuentra el Occidente Secreto... 
+se encuentra el Ocidente Secreto... 
 
 Dejó un momento de hablar. Luego, dijo: 
 
-—Debes prometerme que buscarás la Ciudaad. Porque sólo un número preciso entrará en ella. Cuando un 
+—Debes prometerme que buscarás la Ciudad. Porque sólo un número preciso entrará en ella. Cuando un 
 elegido pierde la ruta, algún otro viene a ocupar su lugar. Alguien que se introduce subrepticiamente, 
 apropiándose su rostro... 
 
@@ -1564,7 +1588,7 @@ Con dificultad, a causa de la luminosidad intensa que aquella noche desprendía 
 contemplar su rostro. Su estatura era mediana, ni alto ni bajo, equilibrado. Los rasgos de su rostro expresaban 
 la voluntad y la nobleza. 
 
-—Maestro debo referirte mis experienciaas. Hace tiempo que no te he visto y ansío poder confirmarlas en tu 
+—Maestro debo referirte mis experiencias. Hace tiempo que no te he visto y ansío poder confirmarlas en tu 
 presencia. 
 
 El maestro asintió con la cabeza. 
@@ -1580,10 +1604,10 @@ debieran haber sido superados. El hombre es dual, lleva la mujer dentro. El cuer
 hombre y masculino en la mujer. Ni el hombre iniciado necesita la mujer fuera, ni la mujer iniciada necesita el 
 hombre. Pueden bastarse a sí mismo. ¿Qué significa para nosotros esa leyenda de la boda mágica, del camino 
 húmedo? Creo que estás comprendiendo mal un símbolo y corres el peligro de perder tu tiempo terrestre. El 
-matrimonio deberá ser adentro. A nuestra Orden de guerreros no le interesa la doctrina. Solamente la acción 
-en los planos suprasensibles; guerra en este mundo y en los otros; guerra contigo mismo, con las proyecciones 
-de tu mente, para alcanzar la realidad última del ser y recuperar al hombre-total, al hombre-dios, al hombre-
-mago, que es otra cosa que el místico o el santo. Somos una Orden de magos activos, no de místicos. Te he 
+matrimonio deberá ser adentro. A nuestra Orden de guerreros no le interesa la doctrina. Solamente la ación 
+en los planos suprasensibles; guerra en este mundo y en los otros; guerra contigo mismo, con las proyeciones 
+de tu mente, para alcanzar la realidad última del ser y recuperar al hombre-total, al hombre-dios, al hombre-mago,
+que es otra cosa que el místico o el santo. Somos una Orden de magos activos, no de místicos. Te he 
 dado la espada y el signo. Combate. Eso es todo. Los signos de la Orden son apropiados para producir la 
 mutación, porque actúan en los diversos mundos, simultáneamente, en los planos invisibles y en los tiempos 
 paralelos. Sus trazos ligan los universos, su vibración establece un pacto. Nada más necesitas conocer. Dibuja 
@@ -1592,7 +1616,7 @@ pensamiento, todo deseo, abre el tercer ojo y despréndete con tu cuerpo menta. 
 que le corresponde. Te llevará junto a los Sidhas de Agarthi y la Ciudad de los Césares. Porta contigo la 
 espada para combatir a las fuerzas enemigas que se te cruzarán en el camino. Con nuestro batallar, evitaremos 
 por un tiempo la catástrofe que se aproxima; hasta que el número preciso haya penetrado por la gran puerta, 
-por las tres puertas abiertas en dirección del Occidente Secreto, donde la luz física muere y nace la luz 
+por las tres puertas abiertas en direción del Ocidente Secreto, donde la luz física muere y nace la luz 
 espiritual. Esas tres puertas por las que tú y yo saliéramos antaño... 
 
 * * * 
@@ -1656,7 +1680,7 @@ pecho.
 La transportó con cuidado hasta el baño y le dejó de pie junto al espejo. Le retiró la camisa de noche. Ella se 
 contempló desnuda. 
 
-—Ya no podré amar con este cuerpo. Peroo el cuerpo visible será cada vez menos necesario. El amor deberá 
+—Ya no podré amar con este cuerpo. Pero el cuerpo visible será cada vez menos necesario. El amor deberá 
 
 consumarse con los otros cuerpos. 
 
@@ -1671,7 +1695,7 @@ Empezó a lavar a su amiga.
 
 Ella fijó en él su mirada lejana. 
 
-—Aquí -dijo- 
+—Aquí —dijo— 
 
 Le estaba indicando su costado, a la altura del pecho. 
 
@@ -1683,7 +1707,7 @@ Ella posó la mano sobre sus cabellos:
 
 Se tomaron de la mano y permanecieron inmóviles en el agua. 
 
-—Cuando yo muera. Tú me llevarás dentroo, yo seré tú; viviré en ti. Te hundirán conmigo en la tumba. Tu 
+—Cuando yo muera. Tú me llevarás dentro, yo seré tú; viviré en ti. Te hundirán conmigo en la tumba. Tu 
 alma seré yo; tu alma tendrá mi rostro y mi cuerpo. Es lo que tu Maestro no te ha revelado. Tu alma aún no 
 tiene rostro. Llegará a tener el mío. Así será persona, será yo. Le daré mi eternidad. Tu alma podrá desposarse 
 consigo misma. La boda se cumple en la Estrella de la Mañana. Mientras pasa la noche y se cumple el destino, 
@@ -1692,13 +1716,13 @@ Se le ha robado su misterio, su pudor, su timidez divina... Has bebido mi sangre
 forma ya transita por tu sangre. Todo esto que en la tierra es una vez y nunca más... Si Dios lo quiere, te 
 amaré aún más estando muerta... 
 
-—Pienso que ya ha amado así alguna vez -dijo él-, a una sacerdotisa, o a una mujer que dormía dentro de una 
-montaña. ¿Serás tú misma? ¿Se repetirá todo eternamente? ¿Es esta la reencarnación? ¿Volveremos a 
+—Pienso que ya ha amado así alguna vez —dijo él—, a una sacerdotisa, o a una mujer que dormía dentro de una 
+montaña. ¿Serás tú misma? ¿Se repetirá todo eternamente? ¿Es esta la rencarnación? ¿Volveremos a 
 encontrarnos, sin memoria, sin tiempo? 
 
 —Nunca he sido antes y no volveré a serrlo. Una vez y nunca más. Y esto es ya definitivo, en el fondo, en el 
 centro de las cosas... Cuando me haya ido, alguien que también va por tu sangre, te enseñará, sin palabras, lo 
-que es la reencarnación y lo que puedes lograr de ella. ¿No has pensado que el hilván de las historias se 
+que es la rencarnación y lo que puedes lograr de ella. ¿No has pensado que el hilván de las historias se 
 encuentre en el narrador? Únicamente el ángel del amor es. El dios del amor. Por él vivimos y morimos. Sólo 
 en él seremos eternamente, prestándonos a la revelación de sus designios, que él desconoce, porque sólo a 
 través nuestro se le harán visibles... Ese dios es la Estrella de la Mañana, el Astro de El-Ella. 
@@ -1706,7 +1730,7 @@ Contemplémoslo...
 
 Amanecía. En una ventanita alta apareció el Lucero del Alba y dejó caer su luz honda, humedecida. 
 
-—Oremos -dijo ella-. Te enseñaré su oraación, para que le repitas cuando yo no esté más. Dila con unción. 
+—Oremos —dijo ella—. Te enseñaré su oración, para que le repitas cuando yo no esté más. Dila con unción. 
 Vendré en su luz... 
 
 * * * 
@@ -1718,7 +1742,7 @@ ayudarás y no dejarás que me muera totalmente. Sálvame. Hazme caer en ti, no 
 no es posible cambiar el destino, que las leyendas del camino que hemos elegido son inmutables. Deberé 
 morir para que tú vivas. Para que El viva, para que el amor se alimente. Si yo viviera, ¿qué pasaría? Un amor 
 más destruido al paso de los días, cambiado en indiferencia. La ley de la tierra haría surgir en mí la madre que 
-devora. Cumpliríase así la predicción de tu Maestro. Pero El no lo quiere. El no lo permitirá. Siento que el 
+devora. Cumpliríase así la predición de tu Maestro. Pero El no lo quiere. El no lo permitirá. Siento que el 
 destino de la amante es renunciar a su eternidad para dársela al amado. Te entregaré mi eternidad. Caeré en tu 
 alma y le daré mi rostro. Así me conservaré eternamente joven. Y cuando tu mueras, caerás en tu alma como 
 dentro de mí... Despósate conmigo, allí dentro. Si tu fracasas, si tu no llegas, todo habrá sido en vano. Y el 
@@ -1754,7 +1778,7 @@ Tenía los ojos cada vez más llenos de otro universo.
 
 Una noche le llamó a su lado: 
 
-—¿Sabias que cuando un metal entra al ffuego pierde una substancia esencial? Por eso el fuego tiene que ser 
+—¿Sabias que cuando un metal entra al fuego pierde una substancia esencial? Por eso el fuego tiene que ser 
 frío. El fuego helado de la muerte... 
 
 Un ruido en el dormitorio, como si alguien abriese una puerta y caminase con los pies descalzos. Ella está 
@@ -1777,14 +1801,14 @@ entregaba. Comprendió que era la boda, el matrimonio al borde de la tumba.
 El hombre pasó muchos años recorriendo el reino del sur, en busca de la Ciudad encantada de los Andes. 
 Primero, le tomó esa corriente que tira hacia los extremos, hacia abajo, siempre más abajo, hacia el Polo. 
 Buscó allí "la Isla Blanca que está en el Cielo", de la que hablan los magos selcnam de la Tierra del Fuego. 
-Ellos creen que a la Ciudad sólo se puede entrar con el cuerpo invisible, que llaman huaiyuhuen. En la 
+Ellos cren que a la Ciudad sólo se puede entrar con el cuerpo invisible, que llaman huaiyuhuen. En la 
 Antártida buscó el Oasis de aguas templadas, que se halla entre los hielos, y el sol blanco, el fuego frío, que 
 existió una vez en el Polo Norte y hoy se encuentra en el Polo Sur. 
 
 Y un día, volvió a desandar lentamente el camino recorrido, al paso tardo de su caballo con una estrella en la 
 frente. Imaginaba que su amiga le acompañaba. Y le decía: 
 
-—No nos desanimemos. A la vuelta de aquuel recodo aparecerá la ciudad. Alguien nos dará su derrotero. 
+—No nos desanimemos. A la vuelta de aquel recodo aparecerá la ciudad. Alguien nos dará su derrotero. 
 Quizás el ermitaño. 
 
 Sí, el ermitaño. ¿Cómo no lo había pensado antes? 
@@ -1803,9 +1827,9 @@ por el ermitaño.
 —¿Qué ermitaño? Te he visto antes aquí;; pero entonces venías solo. Hoy vienes acompañado. ¿Quién es esa 
 mujer que traes a la grupa? Pensé que fueras Witranalwe, el que monta un caballo que crece y crece. 
 
-—¿Dónde está el ermitaño que habitaba eesta cueva? Era blanco. Un ancahuinca, como dirían ustedes. 
+—¿Dónde está el ermitaño que habitaba esta cueva? Era blanco. Un ancahuinca, como dirían ustedes. 
 
-—Nunca ha vivido aquí un ermitaño. Recuuerdo, en cambio, que te ví hablando con el aire; puede que con el 
+—Nunca ha vivido aquí un ermitaño. Recuerdo, en cambio, que te ví hablando con el aire; puede que con el 
 fantasma del Milodón. ¿Se te habrá metido en el cuerpo Anchimallen, la enana de boca luminosa? Es posible 
 que seas el Imbunche, pues te veo marchar para atrás; llevas los pies de revés. 
 
@@ -1820,7 +1844,7 @@ niña de no más de ocho años, vistiendo un delantal de pintas celestes.
 
 Cruzó la niña el gigantesco tronco y se detuvo junto al hombre. Le miró de un modo que él reconocía. 
 
-—He venido a encontrarte, cruzando desdde la otra orilla. Tu deberás hacerlo en sentido opuesto. Sigue 
+—He venido a encontrarte, cruzando desde la otra orilla. Tu deberás hacerlo en sentido opuesto. Sigue 
 buscando. 
 
 Antes del atardecer, el hombre llegó junto a una laguna cercada por grandes rocas. Una cascada caía con 
@@ -1844,7 +1868,7 @@ estuviera la Ciudad.
 Así, un día, se encontró frente a la casa de sus antepasados. Antaño esta casa abarcó grandes extensiones. Sus 
 muros tienen varios siglos y los subterráneos no han sido nunca totalmente recorridos, por lo menos en 
 nuestro tiempo. Allí abajo, los pilares se amarran como correas ya podridas. También hay cadenas y 
-esqueletos. Se cree que estos subterráneos se prolonguen hasta los Andes, también hasta la plaza central de la 
+esqueletos. Se cre que estos subterráneos se prolonguen hasta los Andes, también hasta la plaza central de la 
 ciudad. 
 
 Cruzó el viejo portal y recorrió zaguanes y patios, más antiguos a medida que progresaba hacia Oriente. Se 
@@ -1864,7 +1888,7 @@ mirándole al rostro intensamente para descubrir la identidad y captar sus emoci
 muchacha no sufría, insinuándose en su rostro una sonrisa de complicidad, que se fue acentuando hasta 
 convertirse en mueca de rabia impotente. El rostro se rompió en ecos. Y no volvió más. 
 
-Se levantó del lecho, con la espada en la mano, y se sentó en el sillón de alto respaldo, mirando en dirección 
+Se levantó del lecho, con la espada en la mano, y se sentó en el sillón de alto respaldo, mirando en direción 
 del cuadro. Detuvo todo el pensamiento. 
 
 Ondas fueron subiendo desde el piso, hasta llenar el cuarto. Frente a sus ojos se formó un tubo cilíndrico, que 
@@ -1877,47 +1901,47 @@ recordaban a alguien de otro país.
 
 El antepasado escrutó detenidamente su rostro. Abrió su vieja boca y dijo: 
 
-—Sí. Es el camino húmedo, el de las lággrimas; bien lo reconozco. 
+—Sí. Es el camino húmedo, el de las lágrimas; bien lo reconozco. 
 
 El le interrogó: 
 
-—Tal vez puedas ilustrarme. ¿Cómo es quue estoy viendo en ti a otro? ¿Por qué suelo ver a dos en uno, y hasta 
-tres? ¿Es esto la reencarnación? Tengo el sentimiento de que lo que hoy vivo ya se cumplió antes, en otro 
+—Tal vez puedas ilustrarme. ¿Cómo es que estoy viendo en ti a otro? ¿Por qué suelo ver a dos en uno, y hasta 
+tres? ¿Es esto la rencarnación? Tengo el sentimiento de que lo que hoy vivo ya se cumplió antes, en otro 
 paisaje y tiempo. Los personajes se repiten, en un eterno retorno; la historia se ahonda, aumentando su 
 intensidad. 
 
-—De eso que llamas reencarnación hablarremos luego; aunque en propiedad yo no deba hacerlo. 
+—De eso que llamas rencarnación hablarremos luego; aunque en propiedad yo no deba hacerlo. 
 
-—Te explicaré cómo entiendo la reencarnnación -continuó él-. A los cuatro años de edad, más o menos, 
+—Te explicaré cómo entiendo la rencarnación —continuó él—. A los cuatro años de edad, más o menos, 
 comencé a sentirme yo. Contemplaba a las otras personas y me decía: ¿Es posible que ellas también se sientan 
 yo, de idéntica manera? A través de los años he ido dándole vuelta a este sentimiento-pensamiento, 
 confrontándolo con la experiencia vivida. Y me he dicho: Si el yo se acaba con la muerte, no quiere ello decir 
 que. Algún día, alguna vez, alguien, de nuevo, no vaya a sentirse yo, tal como hoy me siento yo.. .Yo, yo... 
 ¿Entiendes? Y este yo, lo seré yo mismo. Porque no puedo entender que nadie se sienta yo de este mismo 
 modo, sino yo mismo. E igual te habrá acontecido a ti y los demás, pienso. Ese yo, que alguna vez volverá a 
-sentirse alguien, en algún lugar del universo, seré yo... Esta es para mí la reencarnación. Comprendo que es un 
+sentirse alguien, en algún lugar del universo, seré yo... Esta es para mí la rencarnación. Comprendo que es un 
 pensamiento-sensación intransferible. He tratado muchas veces de explicarlo, pero sin mayor éxito... 
 
-—¿Por qué ese yo no puede acabarse paraa siempre? -replicó el antepasado-. ¿No repetirse nunca más? Una vez 
+—¿Por qué ese yo no puede acabarse para siempre? —replicó el antepasado—. ¿No repetirse nunca más? Una vez 
 y nunca más. Y ya nadie volverá a sentirse tú; es decir, yo. Ese yo se acabó. Los que vienen son otros; 
 también los que se quedan. El hecho de que ahora me encuentre aquí, hablándote, no prueba nada. Adivino tu 
 pensamiento. No creas que ello pruebe la supervivencia del yo, ni que algo perdure más allá de la muerte. En 
-lo que a la reencarnación se refiere, no hay más que lo que va por el río de la sangre. Únicamente aquí hay 
-supervivencia, sólo aquí se vuelve y se reencarna. En la medida en que tú te incorporas conscientemente a ese 
+lo que a la rencarnación se refiere, no hay más que lo que va por el río de la sangre. Únicamente aquí hay 
+supervivencia, sólo aquí se vuelve y se rencarna. En la medida en que tú te incorporas conscientemente a ese 
 río, percibes una melodía inaudible que va por su corriente, que se hace cada vez más clara en el transcurrir de 
 las generaciones, aproximándose a su culminación. Ella te eleva sobre la vida transitoria y el yo mortal, para 
 hacerte vivir en un Arquetipo de familia, que tal vez se encuentre ya fuera del tiempo y del espacio, en las 
 venas de las constelaciones. Hay, por así decirlo, una suerte de átomo-simiente en la raíz de la sangre, del cual 
 se obtienen expresiones más claras o más borrosas, según sea la fuerza del retoño y el sentido que puso en el 
 cumplimiento del destino algún predecesor. Ese argumento, esa melodía que se repite, que gira, que tiende a 
-su realización y que tú expresarás mejor o peor, es lo que se ha pensado como reencarnación. De este modo, 
-yo reencarno, sobrevivo en ti. Porque ambos hemos percibido la melodía inaudible para muchos... Como 
-podrás ver, tampoco hay reencarnación para todos. 
+su realización y que tú expresarás mejor o peor, es lo que se ha pensado como rencarnación. De este modo, 
+yo rencarno, sobrevivo en ti. Porque ambos hemos percibido la melodía inaudible para muchos... Como 
+podrás ver, tampoco hay rencarnación para todos. 
 
 —¿Quieres decirme que el sueño de amor eterno es la melodía que nuestra familia viene interpretando, porque 
 nuestro Espíritu-Guía así nos lo ordena? 
 
-—Nuestra familia, vieja de siglos, vienne viajando hacia el Occidente Secreto. Los nuestros recibieron su 
+—Nuestra familia, vieja de siglos, viene viajando hacia el Ocidente Secreto. Los nuestros recibieron su 
 
 herencia de esa parte de la humanidad que no es aquí. Tú eres el último en llegar a esta casa y es posible que 
 seas también el retoño de una rama que se seca. Es al final de una estirpe cuando puede cumplirse mejor el 
@@ -1925,7 +1949,7 @@ destino. En ti vamos todos nuevamente, amando, aspirando, sufriendo. Sólo tú p
 traernos a la luz del día. Pero no creas que eres el único. También yo amé así, y mi padre y mi abuelo. La 
 renunciación al amor carnal, la búsqueda del amor eterno, mezclado con el ansia de la muerte, es el tema de 
 esta melodía obsesionante. En nuestra sangre hay todo un camino de iniciación individual, que se perdió en 
-los siglos. Nuestra familia ha tenido por misión reencontrarlo y darle cumplimiento, antes del final que se 
+los siglos. Nuestra familia ha tenido por misión rencontrarlo y darle cumplimiento, antes del final que se 
 aproxima y que reducirá a polvo esta vieja mansión de tus antepasados. 
 
 * * * 
@@ -1938,14 +1962,14 @@ El hombre tenía hambre.
 Se abrió la puerta del cuarto y entró, sin hacer ruido, una sombra. Era uno de los viejos servidores, que traía 
 una bandeja con viandas. 
 
-—El señor me manda servirle. En los tieempos de Monseñor se servían más de siete platos diferentes. Hoy todo 
+—El señor me manda servirle. En los tiempos de Monseñor se servían más de siete platos diferentes. Hoy todo 
 es distinto. Nadie me paga ya en escudos de oro, sonantes y contantes. Sin embargo, sigo aquí, porque aquí he 
 estado siempre. No recuerdo que exista otro lugar fuera de éste donde yo haya estado. 
 
-—No digas eso -le reprochó el hombre-. Bien sabes que nos hemos encontrado en otros sitios. No quiero tus 
+—No digas eso —le reprochó el hombre—. Bien sabes que nos hemos encontrado en otros sitios. No quiero tus 
 viandas, mi hambre no es física. ¡Guíame, como antaño, mi fiel amigo, hasta donde ella se encuentra! 
 
-—¡Ven! -dijo el viejo, 
+—¡Ven! —dijo el viejo, 
 
 Marcharon por los corredores hasta alcanzar a uno de los patios, donde la hierba subía por los muros y 
 soportales de madera carcomida. Un sol de atardecer lamía las cancelas y se apegaba a los umbrales. Nada allí 
@@ -1954,9 +1978,9 @@ era simétrico.
 El viejo golpeó las manos. De los aposentos salieron mujeres vestidas con mantos negros y choapinos 
 descoloridos. Se pusieron a reír y a batir las manos. 
 
-—Ha vuelto el niño -decían-. Viene a juugar con nosotras. 
+—Ha vuelto el niño —decían—. Viene a jugar con nosotras. 
 
-Son las yewulfes -explicó el viejo-. ¿No las recuerdas? También yo soy un yewulfe. 
+Son las yewulfes —explicó el viejo—. ¿No las recuerdas? También yo soy un yewulfe. 
 
 —¿Qué es eso? 
 
@@ -1964,27 +1988,27 @@ Son las yewulfes -explicó el viejo-. ¿No las recuerdas? También yo soy un yew
 
 Gritaban y saltaban en la luz mortecina. 
 
-—Vamos a jugar con el niño al maumillánn. ¡Cubrámosle los ojos on una venda! 
+—Vamos a jugar con el niño al maumillán. ¡Cubrámosle los ojos on una venda! 
 
 Le vendaron los ojos y le dieron vueltas, empujándole en círculo. Reían sin control. 
 
 El les imploró que le quitaran la venda. 
 
-—No; deberás decirnos qué andas buscanddo... 
+—No; deberás decirnos qué andas buscando... 
 
-—¿Dónde está, dónde me la han escondidoo? 
+—¿Dónde está, dónde me la han escondido? 
 
 Le quitaron le venda y le hicieron entrar en uno de los cuartos. Allí había otras mujeres junto a un kutralwe, o 
 fogón encendido. Se cubrían el rostro con kollones, máscaras de madera, y tejían chañuntukus. Una de ella 
 explicó: 
 
-—Estamos tejiendo para tu novia un mantto de desposada. Te casarás en el napitún, robando una novia. 
+—Estamos tejiendo para tu novia un manto de desposada. Te casarás en el napitún, robando una novia. 
 Estamos tejiendo tu alma. El alma deberá ser tejida y es un chañuntuku, un choapino. ¿Cómo lo quieres? Elige 
 los colores. 
 
 Otra le mostró unas grandes tijeras. 
 
-—Con estas tijeras le corté el cordón dde la vida. Yo fui quien se lo cortó. 
+—Con estas tijeras le corté el cordón de la vida. Yo fui quien se lo cortó. 
 
 Y rió detrás de su máscara. 
 
@@ -1995,19 +2019,19 @@ haciendo muecas. Se deshizo en una explosión y dejó un hueco negro, un cuerpo 
 
 Volvió el pariente. 
 
-—Has hecho mal en ir a visitar la casa sin mi autorización -le reprochó-. Soy yo quien debe acompañarte. ¿No 
+—Has hecho mal en ir a visitar la casa sin mi autorización —le reprochó—. Soy yo quien debe acompañarte. ¿No 
 sabes qué es la casa, la casa de tus antepasados? ¿Deseas que te lo explique? Es tu cuerpo. Ahora te hallas 
 aquí, en el dormitorio. 
 
 El pariente le puso su dedo nudoso en el vientre. 
 
-—Antes de ascender a la torre, tienes qque bajar a los subterráneos. En verdad, no hay arriba ni abajo; por 
+—Antes de ascender a la torre, tienes que bajar a los subterráneos. En verdad, no hay arriba ni abajo; por 
 ambos extremos te es dado salir. Mas, primero, debemos visitar al Gran Antepasado y obtener su bendición. 
 
-—Seamos precisos -dijo él-, nada me intteresa si no es ella. ¡Te imploro que me des una luz de esperanza! 
+—Seamos precisos —dijo él—, nada me interesa si no es ella. ¡Te imploro que me des una luz de esperanza! 
 ¿Cómo puedo volver a encontrarla? He perdido su fantasma... 
 
-—Es la segunda muerte. Interum mori. See está muriendo por Segunda vez; su cuerpo etérico empieza a 
+—Es la segunda muerte. Interum mori. Se está muriendo por Segunda vez; su cuerpo etérico empieza a 
 desintegrarse. Si la vieras ahora seguramente no la reconocerías. Por mucho tiempo llevará máscara, para no 
 espantarte. 
 
@@ -2017,11 +2041,11 @@ descomposición".
 —¡No te ciñas a libros! También yo los escribí. Allí, sobre la mesa, he dejado uno. Lleva por título "El Derecho 
 Natural". 
 
-El antepasado tomó el libro y lo abrió con displicencia. Empezó a leerle: 
+El antepasado tomó el libro y lo abrió con displicencia. Empezó a lerle: 
 
 —"El verdadero amor no sobrevive a su rrealización. Es un acuerdo secreto, una unión de corazones en el plano 
 de las mentes. La verdadera unión es sólo posible en sueños"... Mi libro se llama "El Derecho Natural". Te 
-leeré un poco de esa ciencia infusa: "El amor nada tiene que ver con la sexualidad; es anterior a ella. Fue antes 
+leré un poco de esa ciencia infusa: "El amor nada tiene que ver con la sexualidad; es anterior a ella. Fue antes 
 que la bipolarización de las especies. Hay organismos, primarios, hermafroditas, que se reproducen por 
 
 partenogénesis y buscan a otro, igualmente hermafrodita para poder amarse, parodiando la diferenciación, la 
@@ -2103,8 +2127,8 @@ La Muerte.
 
 El Beso.
 
-"El beso fue una nueva dispensación, establecida para reemplazar la incisión y succión de la sangre. Porque 
-en el beso se mezclan los soplos. Pero así como el dios Quetzalcoatl, fracasó en el intento de reemplazar los 
+"El beso fue una nueva dispensación, establecida para remplazar la incisión y sución de la sangre. Porque 
+en el beso se mezclan los soplos. Pero así como el dios Quetzalcoatl, fracasó en el intento de remplazar los 
 sacrificios sangrientos de los aztecas por ofrendas florales, del mismo modo no se ha conseguido con el beso 
 lo que se buscara. Se lo ha transformado en roce sensual. El beso debe ser el primero paso, o escalón, en el 
 camino de vuelta al hogar perdido, a la ciudad de la vida eterna..." 
@@ -2121,25 +2145,25 @@ Dio vuelta varias páginas y encontró lo siguiente:
 El Vino de la Familia
 
 "En el Quinto Libro, de Weindenfeld, que sólo nosotros conocemos, se explica la fabricación del Espíritu del 
-Vino Secreto. En ninguna otra parte ha sido descrita. Es éste el spiritus mercurii universalis; la menstruación 
+Vino Secreto. En ninguna otra parte ha sido descrita. Es éste el spiritus mercuri universalis; la menstruación 
 de la uva, el agua disolvente, el agua ardida. Nuestra familia piensa que el oro potable, la piedra, el filium 
 aureo no podrán ser creados, en propiedad, si antes no se obtiene el Espíritu del Vino Secreto. He aquí la 
 receta: Tómase un poco de vino blanco y otro poco de vino rojo; mézclanse en proporciones idénticas; se 
 calientan en el baño María, a temperatura pareja. En otro tiempo el baño María fue llamado Maya. También 
 es el mes de Mayo, la fiesta de Mayo, o Mayas... Se deja hervir el vino hasta que una capa de óleo delgado 
-aparezca al fondo; es la putrefacción, la menstruación vegetal. Se debe esperar a que suba a la superficie. Y 
+aparezca al fondo; es la putrefación, la menstruación vegetal. Se debe esperar a que suba a la superficie. Y 
 todo este tiempo se está en oración. Se abre luego la tapa del vaso hermético y se aspira. Si exhala un 
 perfume sutil, aunque penetrante, es que el Espíritu del Vino ha aparecido. Debe beberse rápidamente, antes 
-de que se contraiga. Se cierra de nuevo el vas hermeticum y se continúa la cocción, hasta que el óleo se 
+de que se contraiga. Se cierra de nuevo el vas hermeticum y se continúa la coción, hasta que el óleo se 
 endurece, transformándose en metal, en semen áureo, en oro potable. Es la Quintaesencia. Esta Materia 
 Prima no se encuentra en ninguno de los tres reinos naturales y deberá ser inventada. Es muy posible que sea 
-traída de lo alto por un pájaro blanco. Y es el trabajo de la cocción el que lo obliga a descender del cielo. 
+traída de lo alto por un pájaro blanco. Y es el trabajo de la coción el que lo obliga a descender del cielo. 
 Para la fabricación de la Piedra, hay dos caminos. Por uno de ellos, se llega más rápidamente, pues no se 
 pasa por la destilación del Espíritu del Vino Secreto; ha sido llamado por esto Camino Seco. También, 
 porque no requiere la ayuda de la mujer a tu lado, en tu Laboratorio. No podríamos decir si es que sus 
 resultados son los mismos; pero nuestra familia ha elegido el camino que pasa por el Vino, el cual ha sido 
 llamado Camino Húmedo, porque no puede recorrerse sin la compañía de la mujer, la que derrama y hace 
-derramar lágrimas. En verdad, es ella quien lo fabrica. Sin embargo, para la construcción de la Piedra, del 
+derramar lágrimas. En verdad, es ella quien lo fabrica. Sin embargo, para la construción de la Piedra, del 
 Oro, del Hijo, tú deberás estar solo nuevamente, terriblemente solo, más solo que nunca, más que aquel que 
 eligiera el Camino Seco, pues te habrás quedado solo... El Sendero del Vino es el más difícil, el más largo y 
 lleno de peligros. Por ello, nosotros pensamos que es el más noble y completo. Por eso nuestra estirpe lo ha 
@@ -2150,7 +2174,7 @@ Seguían varias líneas ilegibles y otras que habían sido tachadas con tinta. N
 vuelta la penúltima página y leyó: 
 
 "Te digo que mi corazón ha sido abierto como por una daga y tu has entrado en él. Luego se ha cerrado en 
-mi pecho. Así tú te encontrarás sin otro compañero hasta el día de la resurrección y del Juicio Final, 
+mi pecho. Así tú te encontrarás sin otro compañero hasta el día de la resurreción y del Juicio Final, 
 compartiendo toda mi vida y toda mi muerte. Porque cuando yo muera, tú habitarás en el fondo de mi 
 corazón, en las tenebrosas profundidades de la tumba..." 
 
@@ -2159,7 +2183,7 @@ corazón, en las tenebrosas profundidades de la tumba..."
 Volvió a aparecer su antepasado. Traía un candelabro en su mano izquierda y vestía los paramentos de su alta 
 dignidad. 
 
-—Acompáñame -le pidió-, debo mostrarte nuestras viñas y bodegas, donde, por trescientos años, fabricamos el 
+—Acompáñame —le pidió—, debo mostrarte nuestras viñas y bodegas, donde, por trescientos años, fabricamos el 
 vino. El oficio tradicional de la familia siempre ha sido éste. 
 
 Atravesaron la casa vacía y salieron a los campos, donde los trabajadores recolectaban los racimos de uvas y 
@@ -2168,12 +2192,12 @@ como un río suelto. Bajo los entoldados, se reunían los familiares para asisti
 y jóvenes, en gran silencio y concentración. A la llegada del antepasado, se pusieron de pie y se inclinaron. El 
 se acercó a saludarles uno a uno. Le miraban asombrados, sin reconocerle. 
 
-—No te preocupes -dijo el pariente-; noo todos saben de lo que se trata. Iremos ahora a las bodegas. 
+—No te preocupes —dijo el pariente—; no todos saben de lo que se trata. Iremos ahora a las bodegas. 
 
 De nuevo se hallaron solos. El antepasado le fue mostrando los barriles. Tenían nombres grabados. A medida 
 que avanzaban, los barriles disminuían de tamaño. 
 
-—Este vino es para la familia. Aquí guaardamos el Espíritu del Vino Secreto. Por el Libro de la Familia, que he 
+—Este vino es para la familia. Aquí guardamos el Espíritu del Vino Secreto. Por el Libro de la Familia, que he 
 dejado en tu cuarto, habrás podido enterarte que sólo nosotros sabemos cómo fabricarlo, porque a nuestras 
 manos ha llegado el Quinto Libro de Weidenfeld. Nadie fuera de nosotros sabe que él escribió ese Quinto 
 Libro, tan prometido y esperado... Este barril, que aún no tienen nombre, ha sido reservado para ti. Yo mismo 
@@ -2182,7 +2206,7 @@ lo grabaré, cuando en verdad sepa cómo te llamas.
 Las bodegas eran ya el comienzo de los subterráneos. El pariente se cambió de indumentaria y tomó una 
 espada. 
 
-—Lleva también la tuya, pues la vas a nnecesitar -explicó. 
+—Lleva también la tuya, pues la vas a necesitar —explicó. 
 
 El piso era desparejo. Un olor rancio y húmedo lo envolvía todo. De vez en cuando, la débil luz de las 
 candelas dejaba ver eslabones herrumbrosos de cadenas rotas. 
@@ -2191,7 +2215,7 @@ candelas dejaba ver eslabones herrumbrosos de cadenas rotas.
 
 Caminaron largo rato en la oscuridad. 
 
-—¿Cómo te orientas aquí? -preguntó. 
+—¿Cómo te orientas aquí? —preguntó. 
 
 —No me oriento, me desoriento... Ya no sé dónde estamos. Tampoco he recorrido estos subterráneos en toda su 
 extensión. Pero, ¿quién lo ha hecho en este mundo? 
@@ -2200,7 +2224,7 @@ Se oyó un quejido; luego, un como rugido.
 
 Sintió frío en su columna. El pariente le calmó, tomándole del brazo. 
 
-—También yo sentí lo mismo la primera vvez que alcancé a este lugar tan oscuro. Empuña fuerte tu espada. 
+—También yo sentí lo mismo la primera vez que alcancé a este lugar tan oscuro. Empuña fuerte tu espada. 
 Hemos llegado. 
 
 Iluminó con el candelabro la base del muro. Al pie de una columna, apareció la forma de un ser contrahecho, 
@@ -2210,7 +2234,7 @@ las razas de la tierra; el animal con el pez, el vegetal con la piedra.
 
 —Este es el Gran Antepasado. Pídele su bendición, su perdón. Humíllate ante él, besa sus llagas. 
 
-—¡Eso nunca! -respondió-: Lo que haré ees libertarle. Para eso he venido. 
+—¡Eso nunca! —respondió—: Lo que haré es libertarle. Para eso he venido. 
 
 Y con un golpe seco de su espada cortó las cadenas del Gran Antepasado, del Rey de los esclavos de la 
 Atlántida. 
@@ -2220,7 +2244,7 @@ Atlántida.
 El Gran Antepasado entró en el cuarto. Traía aún las marcas de las cadenas y de los suplicios infamantes y 
 olía a profundidad. 
 
-—Vengo a agradecerte. Mi agradecimientoo se expresará del mismo modo: cortando tus cadenas, liberándote 
+—Vengo a agradecerte. Mi agradecimiento se expresará del mismo modo: cortando tus cadenas, liberándote 
 de las amarras que te ligan al sueño. Traigo el Árbol Genealógico de la familia. Uno de tus bisabuelos se 
 llamó Domingo; otro, Sábado. Tú, te llamas Viernes; porque este es el día de tu estrella. Al final del Árbol 
 está creciendo una nueva rama, que será la última, pues es estéril. Debo decirte que en esta familia mora el 
