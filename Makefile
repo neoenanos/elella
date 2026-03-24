@@ -1,0 +1,160 @@
+####################################################################################################
+# Configuration
+####################################################################################################
+
+include .env
+export
+
+# Build configuration
+
+BUILD = build
+MAKEFILE = Makefile
+OUTPUT_FILENAME = book
+METADATA = metadata.yml
+CHAPTERS += $(addprefix ./chapters/,\
+elella.md \
+)
+
+TOC = --toc --toc-depth 5
+METADATA_ARGS = --metadata-file $(METADATA)
+IMAGES = $(shell find images -type f)
+TEMPLATES = $(shell find templates/ -type f)
+COVER_IMAGE = images/image.png
+MATH_FORMULAS = --webtex
+
+# Chapters content
+CONTENT = awk 'FNR==1 && NR!=1 {print "\n\n"}{print}' $(CHAPTERS)
+CONTENT_FILTERS = tee # Use this to add sed filters or other piped commands
+
+# Pages to blank
+
+# === Configuration ===
+BOOK_PDF := build/pdf/book.pdf
+
+# Debugging
+
+DEBUG_ARGS = --verbose
+
+# Pandoc filtes - uncomment the following variable to enable cross references filter. For more
+# information, check the "Cross references" section on the README.md file.
+
+# FILTER_ARGS = --filter pandoc-crossref
+
+# Combined arguments
+
+ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
+	
+PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
+
+# Per-format options
+
+DOCX_ARGS = --standalone --reference-doc templates/docx.docx
+EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --css=templates/style.css 
+HTML_ARGS = --template templates/html.html --standalone --to html5
+PDF_ARGS = --pdf-engine lualatex --lua-filter=filters/page-break.lua
+# --lua-filter=remove-footnotes.lua
+# 	--template templates/pdf.latex
+
+
+# Per-format file dependencies
+
+BASE_DEPENDENCIES = $(MAKEFILE) $(CHAPTERS) $(METADATA) $(IMAGES) $(TEMPLATES)
+DOCX_DEPENDENCIES = $(BASE_DEPENDENCIES)
+EPUB_DEPENDENCIES = $(BASE_DEPENDENCIES)
+HTML_DEPENDENCIES = $(BASE_DEPENDENCIES)
+PDF_DEPENDENCIES = $(BASE_DEPENDENCIES)
+
+# Detected Operating System
+
+OS = $(shell sh -c 'uname -s 2>/dev/null || echo Unknown')
+
+# OS specific commands
+
+ifeq ($(OS),Darwin) # Mac OS X
+	COPY_CMD = cp -P
+else # Linux
+	COPY_CMD = cp --parent
+endif
+
+MKDIR_CMD = mkdir -p
+RMDIR_CMD = rm -r
+ECHO_BUILDING = @echo "building $@...\n\n"
+ECHO_BUILT = @echo "$@ was built\n\n"
+ECHO_COPYING = @echo "copying $(CHAPTERS_DIR) to chapters/ \n\n"
+CP_CHAPTERS = $(ECHO_COPYING) && cp $(CHAPTERS_DIR)/* chapters/
+RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
+
+####################################################################################################
+# Basic actions
+####################################################################################################
+
+.PHONY: all book clean copy epub html pdf docx split
+
+all:	split book
+
+book:	epub html pdf docx
+
+clean:
+	$(RMDIR_CMD) $(BUILD)
+
+copy:
+	$(CP_CHAPTERS) && $(RENAME_CHAPTERS)
+
+####################################################################################################
+# File builders
+####################################################################################################
+
+epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub
+
+html:	$(BUILD)/html/$(OUTPUT_FILENAME).html
+
+pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+
+docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx
+
+$(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/epub
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
+	$(ECHO_BUILT)
+
+$(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/html
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
+	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
+	$(ECHO_BUILT)
+
+$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/pdf
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o $@
+	$(ECHO_BUILT)
+
+$(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/docx
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
+	$(ECHO_BUILT)
+
+####################################################################################################
+# Split gordo.md into chapters
+####################################################################################################
+
+SPLIT_SRC := chapters/gordo.md
+SPLIT_DIR := chapters/s
+
+split:
+	@echo "Splitting $(SPLIT_SRC) into H1 sections..."
+	@rm -f $(SPLIT_DIR)/*.md
+	@mkdir -p $(SPLIT_DIR)
+	@awk '/^# / { \
+		if (out) close(out); \
+		title = $$0; \
+		sub(/^# /, "", title); \
+		filename = title; \
+		gsub(/ /, "_", filename); \
+		out = "$(SPLIT_DIR)/" filename ".md"; \
+	} \
+	{ print >> out }' $(SPLIT_SRC)
+	@echo "Done."
