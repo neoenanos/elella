@@ -2064,11 +2064,11 @@ la candela. En las páginas abiertas se leía un título escrito con caligrafía
 
 "¡Oh, Diosa!, tú eres el verdadero yo mismo. Ninguna diferencia entre tú y yo." 
 
-<hr> 
+* * *
 
 "El viento que sopla desde el jardín donde reside mi amada, me trae la esencia de ella misma." 
 
-<hr> 
+* * *
 
 "Considera nuestra alma como un castillo todo de diamante o muy claro cristal, donde hay muchos 
 aposentos, muchas moradas, unas en lo alto, otras en lo bajo, otras a los lados; y en el centro y mitad de 
@@ -2083,7 +2083,7 @@ muchas almas que se están en la ronda del castillo, que es donde están los que
 nada entrar dentro, ni saben qué hay en aquel tan precioso lugar ni quien está dentro ni aún qué pieza 
 tiene..." 
 
-<hr> 
+* * *
 
 "Y si acaso no supieres
 dónde me hallarás a mí
@@ -2093,14 +2093,14 @@ a mí buscarme has en ti.
 Porque tú eres mi aposento.
 Eres mi casa y morada... 
 
-<hr> 
+* * *
 
 Yo toda me entregué y di 
 y de tal suerte he trocado
 que es mi amado para mí
 y yo soy para mi amado." 
 
-<hr> 
+* * *
 
 "... que son como presagios y mensajeros de la noche venidera del espíritu, aunque no son éstos durables, 
 como la noche que espera.... Pero es la duda, la que llama aquí el alma noche que espera... Pero es la duda, 
@@ -2109,14 +2109,14 @@ la que llama aquí el alma noche oscura..."
 "Esta oscura noche de fuego amoroso, así como a oscuras va purgando, así a oscuras va el alma 
 inflamando..." 
 
-<hr> 
+* * *
 
 "Detente, cierzo muerto
 Os conjuro
 No toquéis el muro
 Porque la esposa duerma más seguro..." 
 
-<hr> 
+* * *
 
 Venían otros títulos, seguidos de subtítulos: 
 
@@ -2138,7 +2138,7 @@ La Mirada
 "El arrobamiento expresa la unión de la virilidad y la femineidad en el hombre. La alegría del arrobamiento 
 se transmite al corazón por la mirada..." 
 
-<hr> 
+* * *
 
 Dio vuelta varias páginas y encontró lo siguiente: 
 

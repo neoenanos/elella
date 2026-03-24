@@ -42,7 +42,7 @@ DEBUG_ARGS = --verbose
 
 # Combined arguments
 
-ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
+ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) # $(DEBUG_ARGS)
 	
 PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
 
@@ -88,9 +88,9 @@ RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
 # Basic actions
 ####################################################################################################
 
-.PHONY: all book clean copy epub html pdf docx split
+.PHONY: all book clean copy epub html pdf docx
 
-all:	split book
+all:	book
 
 book:	epub html pdf docx
 
@@ -136,25 +136,3 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(MKDIR_CMD) $(BUILD)/docx
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
 	$(ECHO_BUILT)
-
-####################################################################################################
-# Split gordo.md into chapters
-####################################################################################################
-
-SPLIT_SRC := chapters/gordo.md
-SPLIT_DIR := chapters/s
-
-split:
-	@echo "Splitting $(SPLIT_SRC) into H1 sections..."
-	@rm -f $(SPLIT_DIR)/*.md
-	@mkdir -p $(SPLIT_DIR)
-	@awk '/^# / { \
-		if (out) close(out); \
-		title = $$0; \
-		sub(/^# /, "", title); \
-		filename = title; \
-		gsub(/ /, "_", filename); \
-		out = "$(SPLIT_DIR)/" filename ".md"; \
-	} \
-	{ print >> out }' $(SPLIT_SRC)
-	@echo "Done."
