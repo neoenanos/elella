@@ -40,6 +40,13 @@ DEBUG_ARGS = --verbose
 
 # FILTER_ARGS = --filter pandoc-crossref
 
+# Per-format include fragments (use format-appropriate raw snippets)
+COMPILE_DATE = $(shell date +"%Y-%m-%d")
+COLPHON_GEN = $(BUILD)/tmp/colophon.html
+INCLUDE_BEFORE_HTML = --include-before-body=$(COLPHON_GEN)
+INCLUDE_BEFORE_EPUB = --include-before-body=$(COLPHON_GEN)
+INCLUDE_BEFORE_PDF = --include-before-body=templates/colophon.tex
+
 # Combined arguments
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) # $(DEBUG_ARGS)
@@ -49,7 +56,7 @@ PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
 # Per-format options
 
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
-EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --css=templates/style.css 
+EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --css=templates/style.css --metadata rights=
 HTML_ARGS = --template templates/html.html --standalone --to html5
 PDF_ARGS = --pdf-engine lualatex --lua-filter=filters/page-break.lua
 # --lua-filter=remove-footnotes.lua
@@ -115,20 +122,24 @@ docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/epub
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
+	$(MKDIR_CMD) $(BUILD)/tmp
+	@sed 's/<!--fecha-->/'"$(COMPILE_DATE)"'/g' templates/colophon.html > $(COLPHON_GEN)
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(INCLUDE_BEFORE_EPUB) $(ARGS) $(EPUB_ARGS) -o $@
 	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/html
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
+	$(MKDIR_CMD) $(BUILD)/tmp
+	@sed 's/<!--fecha-->/'"$(COMPILE_DATE)"'/g' templates/colophon.html > $(COLPHON_GEN)
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(INCLUDE_BEFORE_HTML) $(ARGS) $(HTML_ARGS) -o $@
 	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
 	$(ECHO_BUILT)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(INCLUDE_BEFORE_PDF) $(ARGS) $(PDF_ARGS) -o $@
 	$(ECHO_BUILT)
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
