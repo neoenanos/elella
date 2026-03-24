@@ -42,9 +42,9 @@ DEBUG_ARGS = --verbose
 
 # Per-format include fragments (use format-appropriate raw snippets)
 COMPILE_DATE = $(shell date +"%Y-%m-%d")
-COLPHON_GEN = $(BUILD)/tmp/colophon.html
-INCLUDE_BEFORE_HTML = --include-before-body=$(COLPHON_GEN)
-INCLUDE_BEFORE_EPUB = --include-before-body=$(COLPHON_GEN)
+# don't include per-file colophon; embed in templates instead
+INCLUDE_AFTER_HTML =
+INCLUDE_BEFORE_EPUB =
 INCLUDE_BEFORE_PDF = --include-before-body=templates/colophon.tex
 
 # Combined arguments
@@ -56,8 +56,8 @@ PANDOC_COMMAND = pandoc --lua-filter=filters/verse-sections.lua
 # Per-format options
 
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
-EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE) --css=templates/style.css --metadata rights=
-HTML_ARGS = --template templates/html.html --standalone --to html5
+EPUB_ARGS = --epub-cover-image $(COVER_IMAGE) --css=templates/style.css --metadata compiledate=$(COMPILE_DATE)
+HTML_ARGS = --template templates/html.html --standalone --to html5 --metadata compiledate=$(COMPILE_DATE)
 PDF_ARGS = --pdf-engine lualatex --lua-filter=filters/page-break.lua
 # --lua-filter=remove-footnotes.lua
 # 	--template templates/pdf.latex
@@ -123,16 +123,15 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/epub
 	$(MKDIR_CMD) $(BUILD)/tmp
-	@sed 's/<!--fecha-->/'"$(COMPILE_DATE)"'/g' templates/colophon.html > $(COLPHON_GEN)
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(INCLUDE_BEFORE_EPUB) $(ARGS) $(EPUB_ARGS) -o $@
+	@sed 's/<!--fecha-->/'"$(COMPILE_DATE)"'/g' templates/colophon.html > $(BUILD)/tmp/colophon.html
+	@awk 'BEGIN{f="$(BUILD)/tmp/colophon.html"} {print} /<!--COLPHON_MARKER-->/ {while((getline line < f)>0) print line}' templates/epub.html > $(BUILD)/tmp/epub_template.html
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) --template=$(BUILD)/tmp/epub_template.html $(ARGS) $(EPUB_ARGS) -o $@
 	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/html
-	$(MKDIR_CMD) $(BUILD)/tmp
-	@sed 's/<!--fecha-->/'"$(COMPILE_DATE)"'/g' templates/colophon.html > $(COLPHON_GEN)
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(INCLUDE_BEFORE_HTML) $(ARGS) $(HTML_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(INCLUDE_AFTER_HTML) $(ARGS) $(HTML_ARGS) -o $@
 	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
 	$(ECHO_BUILT)
 

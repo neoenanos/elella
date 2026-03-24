@@ -100,6 +100,12 @@ h2 {
     font-size: 2em;
 }
 
+/* Ensure colophon starts on a new page in paged media / EPUB reading systems */
+.colophon {
+    page-break-before: always;
+    break-before: always;
+}
+
 h3 {
     font-size: 1.5em;
 }
@@ -266,7 +272,6 @@ table td {
 
 .author {
     font-size: 1.2em;
-    text-align: center;
 }
 
 /* @media only screen and (min-width: 480px) {
