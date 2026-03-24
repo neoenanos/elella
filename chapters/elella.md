@@ -941,7 +941,7 @@ días, tal vez meses.
 
 Hasta la gruta llegó el trovador, trayéndole alimento. Fue su compañero invisible. 
 
-—Has hecho bien en venir a una gruta. LLos Perfectos han grabado signos en estos muros. Mira ese pez, esa 
+—Has hecho bien en venir a una gruta. Los Perfectos han grabado signos en estos muros. Mira ese pez, esa 
 paloma, y ese rostro. 
 
 El caballero descubrió el rostro en la roca de la gruta, en el lugar más sombrío. Era un rostro de mujer, con los 
