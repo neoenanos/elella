@@ -88,8 +88,11 @@ RMDIR_CMD = rm -r
 ECHO_BUILDING = @echo "building $@...\n\n"
 ECHO_BUILT = @echo "$@ was built\n\n"
 ECHO_COPYING = @echo "copying $(CHAPTERS_DIR) to chapters/ \n\n"
-CP_CHAPTERS = $(ECHO_COPYING) && cp $(CHAPTERS_DIR)/* chapters/
-RENAME_CHAPTERS = rename -f 's/ /_/g' chapters/*
+CP_CHAPTERS = $(ECHO_COPYING) && cp -r $(CHAPTERS_DIR)/* chapters/
+RENAME_CHAPTERS = \
+	find chapters -type f -name '* *' -exec bash -c 'for f; do d=$$(dirname "$$f"); b=$$(basename "$$f"); mv -n "$$f" "$$d/$${b// /_}"; done' _ {} + && \
+	find chapters -depth -type d -name '* *' -exec bash -c 'for f; do d=$$(dirname "$$f"); b=$$(basename "$$f"); mv -n "$$f" "$$d/$${b// /_}"; done' _ {} +
+
 
 ####################################################################################################
 # Basic actions

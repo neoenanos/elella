@@ -131,7 +131,7 @@ logrado extraer el secreto que se guarda en el sexo de la Esposa, y que Brahma d
 El Maestro continuó: 
 
 —El conocimiento nos ha sido transmitido por la Serpiente que sobrevivió al fondo de las aguas, cuando se 
-destruyó un mundo de hombres—dioses, en cuyo mundo la mujer no estaba afuera, sino dentro, donde él y ella 
+destruyó un mundo de hombres-dioses, en cuyo mundo la mujer no estaba afuera, sino dentro, donde él y ella 
 eran uno y nada hacía ella que él no supiera. Pero ella hizo algo que él no supo. Y las aguas desbordadas 
 destruyeron el continente donde el rey era el supremo sacerdote y meditaba bajo el Árbol, rodeado de 
 animales, dirigiendo el curso de los astros, que tampoco existían fuera de él. Mientras no reincorpores a la 
@@ -193,7 +193,7 @@ punto de la tierra. Eres un templo de una sola columna y varias puertas. Debes e
 propio laberinto y luego sellarla. Por allí, al centro, arriba, está el Kailas y la ciudad de Agarthi. Pero ahora 
 parecieran encontrarse sumergidos, bajo el mar. Deberás primero descender al fondo para recuperar las llaves 
 entre las ruinas de un viejo continente. Y, ¿sabes tú qué es este mundo sumergido? Es el antiguo cerebro de 
-los hombres—dioses, que aún está en ti, pero que ha sido cubierto por una nueva corteza, por un nuevo país. 
+los hombres-dioses, que aún está en ti, pero que ha sido cubierto por una nueva corteza, por un nuevo país. 
 Con la desaparición de lo antiguo, de un viejo sol, los hombres-dioses se sumieron en los montes y en las 
 aguas, en espera de la resurreción. Todo aquello que se cumplía con la ayuda de los hombres-dioses, escapa 
 hoy a tu voluntad; la direción del curso de los astros, los procesos automáticos de tu cuerpo son en verdad 
@@ -331,7 +331,7 @@ nubes. Este templo es tu cuerpo.
 
 —Me lo adelantó el Maestro —dijo el joven con devoción. 
 
-—El templo está construido de una sola rroca, como la montaña de Siva. Antes de entrar, observa las figuras 
+—El templo está construido de una sola roca, como la montaña de Siva. Antes de entrar, observa las figuras 
 aquí talladas por los escultores de Khajuraho. No hay nada de naturalista en su arte. Nunca más en la tierra se 
 construirá esto. Quienes han sido capaces de esculpir así, han penetrado un misterio que asusta a los mismos 
 dioses. Lo divino confúndese con lo demoníaco. El arco tenso tal vez se ha quebrado la cuerda se ha roto, sin 
@@ -419,42 +419,42 @@ ascender a un vegetal y a un mineral. Sube, disuelve tu forma para ayudarlos, po
 Vino un dios cornudo, de pies torcidos, que portaba una flauta. Y empezó a danzar ya cantar: 
 
 ::: {.verse}
-Los lagares son azules
-El vino es rojo
-El sol quema el vientre
-de las danzantes
-¡Ven al jardín de Brindavan! 
+> Los lagares son azules
+> El vino es rojo
+> El sol quema el vientre
+> de las danzantes
+> ¡Ven al jardín de Brindavan!
 :::
 
 Cerraba los ojos, e imploraba. Entonces el dios pasaba por su cuerpo ardido un polvo azul, como de estrellas. 
 Tomaba su flauta y cantaba: 
 
 ::: {.verse}
-¡Oh, Baghavan!
-¿Posarás tus ojos sobre tu servidor?
-Imploremos a aquel a quien tu oración dice:
-¡Oh, Vagaban, tu, quien das aquí
-y en todo sitio, ese especial estado
-que adorna la brillante
-corona de los dioses! 
+> ¡Oh, Baghavan!
+> ¿Posarás tus ojos sobre tu servidor?
+> Imploremos a aquel a quien tu oración dice:
+> ¡Oh, Vagaban, tu, quien das aquí
+> y en todo sitio, ese especial estado
+> que adorna la brillante
+> corona de los dioses! 
 :::
 
 Se detenía un instante, o quizás años, para volver a cantar en la noche., junto al árbol del penitente: 
 
 ::: {.verse}
-¡Oh, diosa
-que a voluntad puedes
-mover los tres mundos!
-¡Tus pechos son el sol y la luna!
-¡Ven aquí junto al que sufre!
-¡Y tú, que en tu corazón contemplas
-a aquel que tiene la forma
-del Himalaya
-y con su sola mirada
-deja caer refrescante ambrosía
-sobre los que se queman en fiebres!
-¡Reposa un instante tu cabeza
-y decansa! 
+> ¡Oh, diosa
+> que a voluntad puedes
+> mover los tres mundos!
+> ¡Tus pechos son el sol y la luna!
+> ¡Ven aquí junto al que sufre!
+> ¡Y tú, que en tu corazón contemplas
+> a aquel que tiene la forma
+> del Himalaya
+> y con su sola mirada
+> deja caer refrescante ambrosía
+> sobre los que se queman en fiebres!
+> ¡Reposa un instante tu cabeza
+> y decansa! 
 :::
 
 * * * 
