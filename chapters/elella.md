@@ -626,25 +626,25 @@ Se oye una voz que invita al festín. Se consagran los manjares con mantrams y s
 por las servidoras y los huéspedes. Primero se consagra el agua y el vino: 
 
 ::: {.verse}
-¡Introduce tu alegría en este vino
-para que sea curso de eterna vida
-felicidad e indestructible placer!
+> ¡Introduce tu alegría en este vino
+> para que sea curso de eterna vida
+> felicidad e indestructible placer!
 
-¡Introduce la esencia de la ambrosía
-la que representa todos los sabores
-del universo
-y es el esperma de la segunda creación
-de los nacidos dos veces! 
+> ¡Introduce la esencia de la ambrosía
+> la que representa todos los sabores
+> del universo
+> y es el esperma de la segunda creación
+> de los nacidos dos veces! 
 :::
 
 Se escancia el vino en el cáliz y se recita el mantram del sol: 
 
 ::: {.verse}
-¡Kang, Bang, Tapinyai, Namah!
-¡Kang, Bang, Tapinyai, Namah!
-¡Gang, Phang, Ngang, Ngang!
-¡Chang, Dhang, Jhang, Tang, Nyang!
-¡Nang, Thang, Dang, Thang, Dan! 
+> ¡Kang, Bang, Tapinyai, Namah!
+> ¡Kang, Bang, Tapinyai, Namah!
+> ¡Gang, Phang, Ngang, Ngang!
+> ¡Chang, Dhang, Jhang, Tang, Nyang!
+> ¡Nang, Thang, Dang, Thang, Dan! 
 :::
 
 Se llena tres cuatros de una copa con el vino, el resto con agua y se recita ahora el mantram de la luna: 
@@ -693,31 +693,31 @@ aciones de las esculturas del templo. Se forma así un universo que se agita con
 que alguien canta: 
 
 ::: {.verse}
-¡Oh, Casto, sólo tu esposa existe
-en el tiempo de la gran dispersión
-todos los otros mueren
-y aún el ojo abierto del
-gran Uno se cierra!
+> ¡Oh, Casto, sólo tu esposa existe
+> en el tiempo de la gran dispersión
+> todos los otros mueren
+> y aún el ojo abierto del
+> gran Uno se cierra!
 :::
 
 El ritmo acelera, se hace intenso. La mujer busca sus labios. 
 
 ::: {.verse}
-¡Oh, destructor
-el suelo ardido es tu campo de juego
-tu arte son las cenizas de las piras funerarias
-tus coronas son rosarios de cráneos!
-Sin embargo, ¡oh dador de bendiciones!,
-quien medita en ti obtiene los auspicios
-quien se autocontrola y en ti medita
-con el pensamiento fijo, ajeno a todo lo exterior
-en la manera ordenada por la ley
-conteniendo su respiración
-sus cabellos erectos de felicidad
-sus ojos llenos de lágrimas de alegría
-inmerso en un lago de néctar delicioso
-aquél sube a la cima del Kailas
-¡Reverencia a ti, el tres ojos!
+> ¡Oh, destructor
+> el suelo ardido es tu campo de juego
+> tu arte son las cenizas de las piras funerarias
+> tus coronas son rosarios de cráneos!
+> Sin embargo, ¡oh dador de bendiciones!,
+> quien medita en ti obtiene los auspicios
+> quien se autocontrola y en ti medita
+> con el pensamiento fijo, ajeno a todo lo exterior
+> en la manera ordenada por la ley
+> conteniendo su respiración
+> sus cabellos erectos de felicidad
+> sus ojos llenos de lágrimas de alegría
+> inmerso en un lago de néctar delicioso
+> aquél sube a la cima del Kailas
+> ¡Reverencia a ti, el tres ojos!
 :::
 
 Parece como que la mujer pierde el control. Comienza a gemir y sus labios abiertos buscan los del héroe, 
@@ -726,10 +726,10 @@ penetrándolos con su lengua húmeda.
 Las servidoras cantan: 
 
 ::: {.verse}
-¡Terrible, bello! ¡Casa de nuestra señora!
-¡Bosque de Durga! ¡Hija de Matanga!
-¡Esposa de Brahma! ¡Kumari, Lakshmi!
-¡Pura! ¡Pura! 
+> ¡Terrible, bello! ¡Casa de nuestra señora!
+> ¡Bosque de Durga! ¡Hija de Matanga!
+> ¡Esposa de Brahma! ¡Kumari, Lakshmi!
+> ¡Pura! ¡Pura! 
 :::
 
 El concentra su voluntad en el entrecejo, tratando de ausentarse, aún cuando sin dejar de participar en el 
@@ -866,67 +866,67 @@ Consolamentum se hallan preparados.
 El trovador pulsó su laúd: 
 
 ::: {.verse}
-Construyo un castillo
-Castillo noble y gentil
-Tan hábilmente como puedo
-Dulce en las raíces
-Grande y pequeño
-Lleno de cantos de aves
-Sus dominios se extienden
-Bellos como ninguno
-Ese castillo es el
-Castillo del amor
-Señor de señores
-Y del castillo las altas torres
-Donde el extranjero encontrará
-A su dama
-Y blancos corderos
-Como símbolos de amor
-Ahí reposa la amada
-Que implora con dulzura
-Por la proteción de su bien
-En el instante de gran necesidad
-La primera puerta está siempre abierta
-La segunda está cerrada
-Y es sólo para los preferidos
-Se deberá abrir con un beso puro
-Una vez que esa puerta se ha franqueado
-Ya no hay más defensas
-En el castillo
-Pero quien pasa ese límite
-Y no avanza aún más
-Atrae su mal fin
-No es digno del amor
-La gran sala y el techo que la cubre
-Son para acariciar largamente
-Y para dormir muy juntos
-Desnudos con tu amiga
-Las puertas y ventanas
-Son hechas de bellos semblantes
-Los muros espesos de piedra oscura
-Son males y tormentos
+> Construyo un castillo
+> Castillo noble y gentil
+> Tan hábilmente como puedo
+> Dulce en las raíces
+> Grande y pequeño
+> Lleno de cantos de aves
+> Sus dominios se extienden
+> Bellos como ninguno
+> Ese castillo es el
+> Castillo del amor
+> Señor de señores
+> Y del castillo las altas torres
+> Donde el extranjero encontrará
+> A su dama
+> Y blancos corderos
+> Como símbolos de amor
+> Ahí reposa la amada
+> Que implora con dulzura
+> Por la proteción de su bien
+> En el instante de gran necesidad
+> La primera puerta está siempre abierta
+> La segunda está cerrada
+> Y es sólo para los preferidos
+> Se deberá abrir con un beso puro
+> Una vez que esa puerta se ha franqueado
+> Ya no hay más defensas
+> En el castillo
+> Pero quien pasa ese límite
+> Y no avanza aún más
+> Atrae su mal fin
+> No es digno del amor
+> La gran sala y el techo que la cubre
+> Son para acariciar largamente
+> Y para dormir muy juntos
+> Desnudos con tu amiga
+> Las puertas y ventanas
+> Son hechas de bellos semblantes
+> Los muros espesos de piedra oscura
+> Son males y tormentos
 
-De la ausencia que se hace
-Sufrir al suplicante
-Hasta que no revele
-Sus más delicados sentimientos
-Las alcobas están hechas de entregas
-De discreción tenida por preciosa
-En las cocinas y en la gran sala
-No hay más fuego que el amor
-Aquel que logra entrar en el castillo
-Deberá ser su defensor
-Encontrará allí seguridad al fin
-Y nada que perder
-Porque las legiones
-Venidas de las distancias
-No podrán penetrar
-En un castillo tan seguro
-E inviolable
-Residencia a la que pertenezco
-Estas son las palabras
-Y el mensaje 
-Que de lejos te son enviados
+> De la ausencia que se hace
+> Sufrir al suplicante
+> Hasta que no revele
+> Sus más delicados sentimientos
+> Las alcobas están hechas de entregas
+> De discreción tenida por preciosa
+> En las cocinas y en la gran sala
+> No hay más fuego que el amor
+> Aquel que logra entrar en el castillo
+> Deberá ser su defensor
+> Encontrará allí seguridad al fin
+> Y nada que perder
+> Porque las legiones
+> Venidas de las distancias
+> No podrán penetrar
+> En un castillo tan seguro
+> E inviolable
+> Residencia a la que pertenezco
+> Estas son las palabras
+> Y el mensaje 
+> Que de lejos te son enviados
 :::
 
 Calló el trovador. El caballero se había dormido con la cabeza reclinada en un brazo en la rústica mesa de la 
@@ -956,20 +956,20 @@ Las palabras le eran incomprensibles, pero estaban allí, como suspendidas en el
 Vino el trovador y cantó nuevamente: 
 
 ::: {.verse}
-Como dijera Perceval
-En los tiempos en 
-qué el vivía
-Sé tan fuerte y maravilloso 
-Que no puedas pedir
-A quien sirves
-La Lanza y el Grial
-Ello te estará prohibido
-¡Mi Dama! Frente a tu
-Belleza
-Yo lo olvido todo
-Sólo deseo implorarte
-Y no lo puedo
-¡Yo sólo sueño...!
+> Como dijera Perceval
+> En los tiempos en 
+> qué el vivía
+> Sé tan fuerte y maravilloso 
+> Que no puedas pedir
+> A quien sirves
+> La Lanza y el Grial
+> Ello te estará prohibido
+> ¡Mi Dama! Frente a tu
+> Belleza
+> Yo lo olvido todo
+> Sólo deseo implorarte
+> Y no lo puedo
+> ¡Yo sólo sueño...!
 :::
 
 El caballero empezó a vivir en sueños. El aire enrarecido de la caverna era propicio a las alucinaciones. 
@@ -1008,13 +1008,13 @@ irse.
 He aquí la canso: 
 
 ::: {.verse}
-Lanquam li jorn lonc en may
-M'es belhs dous chans d'auzelhs de lohn
-E quan mi suy partiz de lay
+> Lanquam li jorn lonc en may
+> M'es belhs dous chans d'auzelhs de lohn
+> E quan mi suy partiz de lay
 
-Remembram d'un amor de lohn
-Vau de talan embronc e clis
-Nom platz plus que l'yvern getalatz.
+> Remembram d'un amor de lohn
+> Vau de talan embronc e clis
+> Nom platz plus que l'yvern getalatz.
 :::
 
 Comenzó a caer la nieve. Estalactitas crecieron en la caverna. Sin embargo, el caballero no sintió el frío. Ya 
@@ -1271,28 +1271,28 @@ ayude a cruzar las filas de los ejércitos enemigos.
 El trovador tomó su laúd y cantó: 
 
 ::: {.verse}
-Mucho me place el alegre tiempo
-Que hace nacer hojas y flores
-Me place oír el dichoso ruido
-De los pájaros que hacen resonar
-Sus cantos por el bosque
+> Mucho me place el alegre tiempo
+> Que hace nacer hojas y flores
+> Me place oír el dichoso ruido
+> De los pájaros que hacen resonar
+> Sus cantos por el bosque
 
-Y me place ver sobre los prados
-Tiendas y pabellones levantados
-Y tengo gran alegría
-Cuando veo alineados por el cuerpo
-Caballeros y caballos armados
-Me place en mi valentía
-Ver castillos fuertemente asediados
-En todo su contorno de fosos cerrados
-También me place cuando un Señora, es el primero en invadir
-A caballo, sin miedo, bien armado
-Me place su valiente bravura
+> Y me place ver sobre los prados
+> Tiendas y pabellones levantados
+> Y tengo gran alegría
+> Cuando veo alineados por el cuerpo
+> Caballeros y caballos armados
+> Me place en mi valentía
+> Ver castillos fuertemente asediados
+> En todo su contorno de fosos cerrados
+> También me place cuando un Señora, es el primero en invadir
+> A caballo, sin miedo, bien armado
+> Me place su valiente bravura
 
-Y correrán en desorden los caballos
-Relincharán por doquier
-En la arboleda, sin dueño los caballos...
-Y yo te digo: ¡Quédate ya en paz!
+> Y correrán en desorden los caballos
+> Relincharán por doquier
+> En la arboleda, sin dueño los caballos...
+> Y yo te digo: ¡Quédate ya en paz!
 :::
 
 Subieron el sendero del monte hasta la empinada cumbre. Y se encontraron frente a la entrada del castillo de 
