@@ -650,8 +650,8 @@ Se escancia el vino en el cáliz y se recita el mantram del sol:
 Se llena tres cuatros de una copa con el vino, el resto con agua y se recita ahora el mantram de la luna: 
 
 ::: {.verse}
-¡Ung, Soma, Mandalaya,
-Sodaza, Kalatmane, Namah! 
+> ¡Ung, Soma, Mandalaya,
+> Sodaza, Kalatmane, Namah! 
 :::
 
 Se ha transformado el vino en néctar, destruyéndose la maldición que pesaba sobre él desde antiguo. Es ahora 
