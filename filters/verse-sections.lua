@@ -44,34 +44,6 @@ function convert_softbreaks_block(block)
 end
 
 
-function latex_quote_verse(blockquote)
-  local blocks = {}
-
-  -- Open quotation without extra left margin
-  table.insert(blocks,
-    pandoc.RawBlock("latex",
-      "\\begin{quote}\\setlength{\\leftskip}{0pt}\\setlength{\\rightskip}{0pt}"))
-
-  -- Open verse
-  table.insert(blocks,
-    pandoc.RawBlock("latex", "\\begin{verse}"))
-
-  for _, b in ipairs(blockquote.content) do
-    table.insert(blocks, b)
-  end
-
-  -- Close verse
-  table.insert(blocks,
-    pandoc.RawBlock("latex", "\\end{verse}"))
-
-  -- Close quote
-  table.insert(blocks,
-    pandoc.RawBlock("latex", "\\end{quote}"))
-
-  return blocks
-end
-
-
 function Pandoc(doc)
   local newblocks = {}
   local i = 1
@@ -107,23 +79,7 @@ function Pandoc(doc)
       while i <= #blocks and blocks[i].t ~= "Header" do
         local nextel = convert_softbreaks_block(blocks[i])
 
-        -- Special handling for quoted verse in LaTeX/PDF
-        if FORMAT:match("latex") and nextel.t == "BlockQuote" then
-          table.insert(newblocks,
-            pandoc.RawBlock("latex", "\\end{verse}"))
-
-          local qblocks = latex_quote_verse(nextel)
-
-          for _, qb in ipairs(qblocks) do
-            table.insert(newblocks, qb)
-          end
-
-          table.insert(newblocks,
-            pandoc.RawBlock("latex", "\\begin{verse}"))
-
-        else
-          table.insert(newblocks, nextel)
-        end
+        table.insert(newblocks, nextel)
 
         i = i + 1
       end
@@ -151,29 +107,31 @@ function Div(el)
 
     for _, block in ipairs(el.content) do
       block = convert_softbreaks_block(block)
-
-      -- Special handling for quoted verse in PDF
-      if FORMAT:match("latex") and block.t == "BlockQuote" then
-
-        table.insert(blocks,
-          pandoc.RawBlock("latex", "\\end{verse}"))
-
-        local qblocks = latex_quote_verse(block)
-
-        for _, qb in ipairs(qblocks) do
-          table.insert(blocks, qb)
-        end
-
-        table.insert(blocks,
-          pandoc.RawBlock("latex", "\\begin{verse}"))
-
-      else
-        table.insert(blocks, block)
-      end
+      table.insert(blocks, block)
     end
 
     table.insert(blocks,
       pandoc.RawBlock("latex", "\\end{verse}"))
+
+    return blocks
+  end
+end
+
+
+function BlockQuote(el)
+  if FORMAT:match("latex") then
+    local blocks = {}
+
+    -- Indent quoted verse without adding vertical spacing
+    table.insert(blocks,
+      pandoc.RawBlock("latex", "\\leftskip=2em"))
+
+    for _, b in ipairs(el.content) do
+      table.insert(blocks, b)
+    end
+
+    table.insert(blocks,
+      pandoc.RawBlock("latex", "\\leftskip=0pt"))
 
     return blocks
   end
