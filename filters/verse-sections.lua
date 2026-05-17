@@ -44,6 +44,34 @@ function convert_softbreaks_block(block)
 end
 
 
+function latex_quote_verse(blockquote)
+  local blocks = {}
+
+  -- Open quotation without extra left margin
+  table.insert(blocks,
+    pandoc.RawBlock("latex",
+      "\\begin{quote}\\setlength{\\leftskip}{0pt}\\setlength{\\rightskip}{0pt}"))
+
+  -- Open verse
+  table.insert(blocks,
+    pandoc.RawBlock("latex", "\\begin{verse}"))
+
+  for _, b in ipairs(blockquote.content) do
+    table.insert(blocks, b)
+  end
+
+  -- Close verse
+  table.insert(blocks,
+    pandoc.RawBlock("latex", "\\end{verse}"))
+
+  -- Close quote
+  table.insert(blocks,
+    pandoc.RawBlock("latex", "\\end{quote}"))
+
+  return blocks
+end
+
+
 function Pandoc(doc)
   local newblocks = {}
   local i = 1
@@ -55,7 +83,7 @@ function Pandoc(doc)
     -- Verse header
     if el.t == "Header" and el.classes:includes("verse") then
 
-      -- Remove the class so it doesn't affect other formats
+      -- Remove class so it doesn't affect other formats
       local newclasses = {}
 
       for _, c in ipairs(el.classes) do
@@ -77,11 +105,25 @@ function Pandoc(doc)
 
       -- Collect blocks until next header
       while i <= #blocks and blocks[i].t ~= "Header" do
-        local nextel = blocks[i]
+        local nextel = convert_softbreaks_block(blocks[i])
 
-        nextel = convert_softbreaks_block(nextel)
+        -- Special handling for quoted verse in LaTeX/PDF
+        if FORMAT:match("latex") and nextel.t == "BlockQuote" then
+          table.insert(newblocks,
+            pandoc.RawBlock("latex", "\\end{verse}"))
 
-        table.insert(newblocks, nextel)
+          local qblocks = latex_quote_verse(nextel)
+
+          for _, qb in ipairs(qblocks) do
+            table.insert(newblocks, qb)
+          end
+
+          table.insert(newblocks,
+            pandoc.RawBlock("latex", "\\begin{verse}"))
+
+        else
+          table.insert(newblocks, nextel)
+        end
 
         i = i + 1
       end
@@ -109,7 +151,25 @@ function Div(el)
 
     for _, block in ipairs(el.content) do
       block = convert_softbreaks_block(block)
-      table.insert(blocks, block)
+
+      -- Special handling for quoted verse in PDF
+      if FORMAT:match("latex") and block.t == "BlockQuote" then
+
+        table.insert(blocks,
+          pandoc.RawBlock("latex", "\\end{verse}"))
+
+        local qblocks = latex_quote_verse(block)
+
+        for _, qb in ipairs(qblocks) do
+          table.insert(blocks, qb)
+        end
+
+        table.insert(blocks,
+          pandoc.RawBlock("latex", "\\begin{verse}"))
+
+      else
+        table.insert(blocks, block)
+      end
     end
 
     table.insert(blocks,
