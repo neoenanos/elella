@@ -13,6 +13,9 @@ fontsize: 14pt
 top-level-division: chapter
 header-includes:
 - \input{templates/geometry.tex}
+- \input{templates/titlepage.tex}
+- \usepackage{graphicx}
+- \usepackage{eso-pic}
 - \usepackage{emptypage}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
